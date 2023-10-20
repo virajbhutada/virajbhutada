@@ -8,7 +8,6 @@ Welcome to my GitHub profile! I'm a passionate data enthusiast and aspiring data
 - 📫 You can reach me via ✉️**email** at virajnbhutada24@gmail.com
       or connect with me on
 
-  
    🌐 **LinkedIn**: https://www.linkedin.com/in/viraj-bhutada-a172b027a/
 
 Feel free to explore my repositories and projects. Let's connect and learn from each other! Happy coding! 😊
