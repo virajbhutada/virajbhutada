@@ -1,4 +1,4 @@
-# Hi, I'm Viraj Bhutada! 👋
+# Hi, I'm Viraj Bhutada! 
 
 Welcome to my GitHub profile! I'm a passionate data enthusiast and aspiring data scientist. I love diving into the world of data, exploring insights, and building meaningful solutions. Here's a bit about me:
 
@@ -10,4 +10,4 @@ Welcome to my GitHub profile! I'm a passionate data enthusiast and aspiring data
 
    🌐 **LinkedIn**: https://www.linkedin.com/in/viraj-bhutada-a172b027a/
 
-Feel free to explore my repositories and projects. Let's connect and learn from each other! Happy coding! 😊
+Feel free to explore my repositories and projects. Let's connect and learn from each other! Happy coding! 
