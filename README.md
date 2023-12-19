@@ -17,11 +17,11 @@ Welcome to my GitHub profile! I'm a dedicated data enthusiast and aspiring data 
 
 Feel free to explore my repositories and projects. I'm passionate about leveraging data to drive innovation. Let's connect, learn, and code together!
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-virajnbhutada24-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/virajnbhutada24/)
-[![Tableau](https://img.shields.io/badge/Tableau-virajbhutada-lightblue?style=for-the-badge&logo=tableau)](https://public.tableau.com/app/profile/viraj.bhutada/vizzes)
-[![HackerRank](https://img.shields.io/badge/HackerRank-virajnbhutada24-brightorange?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/profile/virajnbhutada24)
+[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/virajnbhutada24/)
+[![Tableau](https://img.shields.io/badge/Tableau-lightblue?style=for-the-badge&logo=tableau)](https://public.tableau.com/app/profile/viraj.bhutada/vizzes)
+[![HackerRank](https://img.shields.io/badge/HackerRank-brightorange?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/profile/virajnbhutada24)
 [![Google Cloud Skills Boost](https://img.shields.io/badge/Google%20Cloud%20Skills%20Boost-yellow?style=for-the-badge&logo=googlecloud)](https://www.cloudskillsboost.google/public_profiles/1fe01bf9-78f3-4e57-a935-c7486b6856e1)
-[![Salesforce Trailblazer](https://img.shields.io/badge/Salesforce%20Trailblazer-virajbhutada-blue?style=for-the-badge&logo=salesforce)](https://www.salesforce.com/trailblazer/virajbhutada)
+[![Salesforce Trailblazer](https://img.shields.io/badge/Salesforce%20Trailblazer-blue?style=for-the-badge&logo=salesforce)](https://www.salesforce.com/trailblazer/virajbhutada)
 
 
 
