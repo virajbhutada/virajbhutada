@@ -27,12 +27,6 @@ Feel free to explore my repositories and projects. I'm passionate about leveragi
 
 ## 📊 GitHub Stats
 
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=virajbhutada&show_icons=true&theme=radical)](https://github.com/virajbhutada)
-
-
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=virajbhutada&show_icons=true&theme=radical&langs_count=10)](https://github.com/virajbhutada)
-
-
 [![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=virajbhutada&show_icons=true&theme=radical&exclude_repo=repo1,repo2,repo3)](https://github.com/virajbhutada)
 
 
