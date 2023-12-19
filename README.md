@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm a dedicated data enthusiast and aspiring data 
 - 📧 Email: virajnbhutada24@gmail.com
 - 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/viraj-bhutada-a172b027a/)
 
-## 🚀 Explore My Work
+## 💻 Explore My Work
 
 Feel free to explore my repositories and projects. I'm passionate about leveraging data to drive innovation. Let's connect, learn, and code together!
 
@@ -22,6 +22,12 @@ Feel free to explore my repositories and projects. I'm passionate about leveragi
 [![HackerRank](https://img.shields.io/badge/HackerRank-virajnbhutada24-brightorange?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/profile/virajnbhutada24)
 [![Google Cloud Skills Boost](https://img.shields.io/badge/Google%20Cloud%20Skills%20Boost-virajnbhutada24-yellow?style=for-the-badge&logo=googlecloud)](https://www.cloudskillsboost.google/public_profiles/1fe01bf9-78f3-4e57-a935-c7486b6856e1)
 [![Tableau](https://img.shields.io/badge/Tableau-virajbhutada-lightblue?style=for-the-badge&logo=tableau)](https://public.tableau.com/app/profile/viraj.bhutada/vizzes)
+
+
+
+## 📊 GitHub Stats
+
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=virajbhutada&show_icons=true&theme=radical)](https://github.com/virajbhutada)
 
 
 ## 🌟 Let's Connect and Innovate Together!
