@@ -13,4 +13,4 @@ Welcome to my GitHub profile! I'm a passionate data enthusiast and aspiring data
 Feel free to explore my repositories and projects. Let's connect and learn from each other! Happy coding! 
 
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-virajnbhutada24-brightgreen)](https://leetcode.com/virajnbhutada24/)
+<a href="https://leetcode.com/virajnbhutada24/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-virajnbhutada24-brightgreen?style=for-the-badge&logo=leetcode" alt="LeetCode"></a>
