@@ -25,6 +25,9 @@ Feel free to explore my repositories and projects. I'm passionate about leveragi
 
 [![Google Cloud Skills Boost](https://img.shields.io/badge/Google%20Cloud%20Skills%20Boost-virajnbhutada24-yellow?style=for-the-badge&logo=googlecloud)](https://www.cloudskillsboost.google/public_profiles/1fe01bf9-78f3-4e57-a935-c7486b6856e1)
 
+[![Tableau](https://img.shields.io/badge/Tableau-virajbhutada-lightblue?style=for-the-badge&logo=tableau)](https://public.tableau.com/app/profile/viraj.bhutada/vizzes)
+
+
 ## 🌟 Let's Connect and Innovate Together!
 
 Feel free to reach out, and let's embark on a data-driven journey. Happy coding!
