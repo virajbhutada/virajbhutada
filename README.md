@@ -11,3 +11,6 @@ Welcome to my GitHub profile! I'm a passionate data enthusiast and aspiring data
    🌐 **LinkedIn**: https://www.linkedin.com/in/viraj-bhutada-a172b027a/
 
 Feel free to explore my repositories and projects. Let's connect and learn from each other! Happy coding! 
+
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-virajnbhutada24-brightgreen)](https://leetcode.com/virajnbhutada24/)
