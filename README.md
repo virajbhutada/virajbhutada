@@ -25,8 +25,8 @@ Feel free to explore my repositories and projects. I'm passionate about leveragi
 [![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-virajbhutada-ffcc00?style=for-the-badge&logo=microsoft)](https://learn.microsoft.com/en-us/users/virajbhutada-6329/)
 [![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-virajbhutada-ffcc00?style=for-the-badge&logo=microsoft)](https://learn.microsoft.com/en-us/users/virajbhutada-6329/)
 
+[![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-virajbhutada-#FF0000?style=for-the-badge&logo=microsoft&style=for-the-badge&logoColor=white&color=green)](https://learn.microsoft.com/en-us/users/virajbhutada-6329/)
 
-[![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-virajbhutada-FFCC00?style=for-the-badge&logo=microsoft)](https://learn.microsoft.com/en-us/users/virajbhutada-6329/)
 
 
 
