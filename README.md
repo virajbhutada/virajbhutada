@@ -24,6 +24,10 @@ Feel free to explore my repositories and projects. I'm passionate about leveragi
 [![Salesforce Trailblazer](https://img.shields.io/badge/Salesforce%20Trailblazer-virajbhutada-blue?style=for-the-badge&logo=salesforce)](https://www.salesforce.com/trailblazer/virajbhutada)
 [![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-virajbhutada-ffcc00?style=for-the-badge&logo=microsoft)](https://learn.microsoft.com/en-us/users/virajbhutada-6329/) [![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-virajbhutada-#FF0000?style=for-the-badge&logo=microsoft&style=for-the-badge&logoColor=white&color=green)](https://learn.microsoft.com/en-us/users/virajbhutada-6329/)
 
+[![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-virajbhutada-0077B5?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/users/virajbhutada-6329/)
+[![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-virajbhutada-#FF0000?style=for-the-badge&logo=microsoft&style=for-the-badge&logoColor=white&color=green)](https://learn.microsoft.com/en-us/users/virajbhutada-6329/)
+
+
 
 
 
