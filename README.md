@@ -22,11 +22,11 @@ Feel free to explore my repositories and projects. I'm passionate about leveragi
 [![HackerRank](https://img.shields.io/badge/HackerRank-virajnbhutada24-brightorange?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/profile/virajnbhutada24)
 [![Google Cloud Skills Boost](https://img.shields.io/badge/Google%20Cloud%20Skills%20Boost-virajnbhutada24-yellow?style=for-the-badge&logo=googlecloud)](https://www.cloudskillsboost.google/public_profiles/1fe01bf9-78f3-4e57-a935-c7486b6856e1)
 [![Salesforce Trailblazer](https://img.shields.io/badge/Salesforce%20Trailblazer-virajbhutada-blue?style=for-the-badge&logo=salesforce)](https://www.salesforce.com/trailblazer/virajbhutada)
-[![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-virajbhutada-blue?style=for-the-badge&logo=microsoft)](https://learn.microsoft.com/en-us/users/virajbhutada-6329/)
 [![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-virajbhutada-ffcc00?style=for-the-badge&logo=microsoft)](https://learn.microsoft.com/en-us/users/virajbhutada-6329/)
 [![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-virajbhutada-ffcc00?style=for-the-badge&logo=microsoft)](https://learn.microsoft.com/en-us/users/virajbhutada-6329/)
 
 
+[![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-virajbhutada-FFCC00?style=for-the-badge&logo=microsoft)](https://learn.microsoft.com/en-us/users/virajbhutada-6329/)
 
 
 
