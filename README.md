@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a dedicated data enthusiast and aspiring data 
 - 📚 Constantly honing my skills in Python, R, SQL, and various data analysis libraries.
 - 💼 Open to collaborations on data-related projects, research, or any exciting opportunities in the field of data science.
 
-## 🌐 Connect with Me
+## Connect with Me
 
 [![Email](https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=%2300A1E4&logoColor=%23FFD046&logoColor=%2300A859&logoColor=%23D92E29&color=white)](mailto:virajnbhutada24@gmail.com)
 - Feel free to reach out to me via email at virajnbhutada24@gmail.com. I'm always open to connecting and discussing exciting opportunities!
