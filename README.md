@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm a dedicated data enthusiast and aspiring data 
 - Let's connect on LinkedIn! Check out my professional profile and stay updated on my latest endeavors in the world of data science.
 
 
-## 💻 Explore My Work
+## Explore My Work
 
 Feel free to explore my repositories and projects. I'm passionate about leveraging data to drive innovation. Let's connect, learn, and code together!
 
