@@ -25,9 +25,14 @@ Feel free to explore my repositories and projects. I'm passionate about leveragi
 
 - **Predictive Modeling:** Implemented predictive models for various datasets, showcasing my proficiency in regression, classification, and clustering algorithms.
 
-- **Data Visualization:** Created interactive and insightful visualizations using tools like Tableau, bringing data to life and making it accessible to a wider audience.
+- **Data Visualization:**
+  - **Tableau:** Created interactive and insightful visualizations using Tableau, bringing data to life and making it accessible to a wider audience.
+  - **Power BI:** Developed compelling data visualizations and dashboards in Power BI to communicate complex insights and support data-driven decision-making.
+  - **Microsoft Excel:** Utilized advanced Excel functionalities to design visually appealing and informative charts, graphs, and reports.
+  - **Google Looker Studio:** Produced engaging and effective visualizations in Google Looker Studio, enhancing data understanding and facilitating informed decision-making.
 
-- **Hackerrank Challenges:** Participated in coding challenges and competitions on HackerRank, honing my problem-solving skills and algorithmic thinking.
+- **Hackerrank Challenges:** Participated in coding challenges and competitions on HackerRank, enhancing my problem-solving skills and algorithmic thinking.
+
 
 
 # Developer Profile
