@@ -32,7 +32,7 @@ Feel free to explore my repositories and projects. I'm passionate about leveragi
 
 
 
-# Developer Profile
+# 📊 Developer Profile
 
 Welcome to my developer profile! Here, you can find information about my achievements and skills across various platforms.
 
