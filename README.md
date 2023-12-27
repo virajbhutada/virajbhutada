@@ -3,7 +3,6 @@
 Welcome to my GitHub profile! I'm a dedicated data enthusiast and aspiring data scientist, on a journey to extract meaningful insights from the vast realm of data. Here's a glimpse into my world:
 
 ## 👨‍💻 About Me
----
 - 🔬 Exploring the fascinating domains of data science and machine learning.
 - 📚 Constantly honing my skills in Python, R, SQL, and various data analysis libraries.
 - 🤖 Passionate about building predictive models, implementing machine learning algorithms, and turning data into actionable intelligence.
@@ -11,7 +10,6 @@ Welcome to my GitHub profile! I'm a dedicated data enthusiast and aspiring data 
 - 💼 Open to collaborations on data-related projects, research, or any exciting opportunities in the field of data science.
 
 ## 🌐 Connect with Me
----
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/virajnbhutada24)
 - Let's connect on LinkedIn! Check out my professional profile and stay updated on my latest endeavors in the world of data science.
 
@@ -36,7 +34,7 @@ Feel free to explore my repositories and projects. I'm passionate about leveragi
 
 
 # Developer Profile
----
+
 Welcome to my developer profile! Here, you can find information about my achievements and skills across various platforms.
 
 ## LeetCode
