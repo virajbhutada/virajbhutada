@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm a dedicated data enthusiast and aspiring data scientist, on a journey to extract meaningful insights from the vast realm of data. Here's a glimpse into my world:
 
-## 💡 About Me
+## About Me
 
 - 🔬 Exploring the fascinating domains of data science and machine learning.
 - 📚 Constantly honing my skills in Python, R, SQL, and various data analysis libraries.
