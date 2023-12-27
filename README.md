@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm a dedicated data enthusiast and aspiring data scientist, on a journey to extract meaningful insights from the vast realm of data. Here's a glimpse into my world:
 
 ## 👨‍💻 About Me    
-- 🔬 Exploring the fascinating domains of data science and machine learning.    ![Tableau Logo](https://img.shields.io/badge/-?style=for-the-badge&logo=tableau)
+- 🔬 Exploring the fascinating domains of data science and machine learning.  
 - 📚 Constantly enhancing my skills in Python, R, SQL, and various data analysis libraries.
 - 🤖 Passionate about building predictive models, implementing machine learning algorithms, and turning data into actionable intelligence.
 - 📊 Experienced in data preprocessing, feature engineering, and model evaluation to ensure robust and accurate analyses.
