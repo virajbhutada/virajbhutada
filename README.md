@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a dedicated data enthusiast and aspiring data 
 
 ## 👨‍💻 About Me
 - 🔬 Exploring the fascinating domains of data science and machine learning.
-- 📚 Constantly honing my skills in Python, R, SQL, and various data analysis libraries.
+- 📚 Constantly enhancing my skills in Python, R, SQL, and various data analysis libraries.
 - 🤖 Passionate about building predictive models, implementing machine learning algorithms, and turning data into actionable intelligence.
 - 📊 Experienced in data preprocessing, feature engineering, and model evaluation to ensure robust and accurate analyses.
 - 💼 Open to collaborations on data-related projects, research, or any exciting opportunities in the field of data science.
