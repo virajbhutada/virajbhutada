@@ -18,7 +18,6 @@ Welcome to my GitHub profile! I'm a dedicated data enthusiast and aspiring data 
 
 
 ## 💻 Explore My Work
----
 Feel free to explore my repositories and projects. I'm passionate about leveraging data to drive innovation. Here are some highlights:
 
 - **Predictive Modeling:** Implemented predictive models for various datasets, showcasing my proficiency in regression, classification, and clustering algorithms.
