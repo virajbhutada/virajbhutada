@@ -46,7 +46,7 @@ Feel free to explore my repositories and projects. I'm passionate about leveragi
 
 - **Hackerrank Challenges:** Participated in coding challenges and competitions on HackerRank, enhancing my problem-solving skills and algorithmic thinking.
 
-
+---
 
 # 📊 Developer Profile
 
