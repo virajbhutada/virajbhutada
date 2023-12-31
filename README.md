@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a dedicated data enthusiast and aspiring data 
 - 💼 Open to collaborations on data-related projects, research, or any exciting opportunities in the field of data science.
 
 
-![Profile views](https://komarev.com/ghpvc/?username=virajbhutada&label=Profile+Views&color=green)
+![Profile views](https://komarev.com/ghpvc/?username=virajbhutada&label=Profile+Views&color=blue)
 
 
 ## 🌐 Connect with Me
