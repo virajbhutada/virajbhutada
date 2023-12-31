@@ -9,6 +9,15 @@ Welcome to my GitHub profile! I'm a dedicated data enthusiast and aspiring data 
 - 📊 Experienced in data preprocessing, feature engineering, and model evaluation to ensure robust and accurate analyses.
 - 💼 Open to collaborations on data-related projects, research, or any exciting opportunities in the field of data science.
 
+## 🌟 Profile views
+![Profile Views](https://komarev.com/ghpvc/?username=virajbhutada&color=green)
+
+## 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/virajnbhutada24)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/VirajBhutada24)
+[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/virajbhutada)
+[![Email](https://img.shields.io/badge/Email-your-email@example.com?style=for-the-badge)](mailto:your-email@example.com)
+
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/virajnbhutada24)
 - Let's connect on LinkedIn! Check out my professional profile and stay updated on my latest endeavors in the world of data science.
