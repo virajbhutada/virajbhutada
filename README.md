@@ -9,17 +9,28 @@ Welcome to my GitHub profile! I'm a dedicated data enthusiast and aspiring data 
 - 📊 Experienced in data preprocessing, feature engineering, and model evaluation to ensure robust and accurate analyses.
 - 💼 Open to collaborations on data-related projects, research, or any exciting opportunities in the field of data science.
 
-## 🌟 Profile views
-![Profile Views](https://komarev.com/ghpvc/?username=virajbhutada&color=green)
 
 ![Profile views](https://komarev.com/ghpvc/?username=virajbhutada&label=Profile+Views&color=blue)
 
 
 ## 🌐 Connect with Me
+
+### LinkedIn
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/virajnbhutada24)
+- Let's connect on LinkedIn! Explore my professional profile and stay updated on my latest endeavors in the world of data science. Whether you're interested in collaboration, networking, or discussing data-driven insights, I look forward to connecting with you.
+
+### Twitter
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/VirajBhutada24)
+- Follow me on Twitter for updates on data science, technology, and more. Join the conversation and stay connected with the latest trends and discussions in the data science community.
+
+### GitLab
 [![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/virajbhutada)
+- Explore my GitLab repositories for projects and contributions beyond GitHub. Collaborate, contribute, and discover code repositories hosted on GitLab.
+
+### Email
 [![Email](https://img.shields.io/badge/Email-your-email@example.com?style=for-the-badge)](mailto:your-email@example.com)
+- Feel free to reach out to me via email at your-email@example.com. I'm always open to connecting and discussing exciting opportunities! Whether it's a data science project, collaboration, or just a friendly conversation, don't hesitate to get in touch.
+
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/virajnbhutada24)
