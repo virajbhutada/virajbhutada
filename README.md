@@ -29,7 +29,7 @@ Welcome to my GitHub profile! I'm a dedicated data enthusiast and aspiring data 
 
 ### Email
 [![Email](https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=%2300A1E4&logoColor=%23FFD046&logoColor=%2300A859&logoColor=%23D92E29&color=white)](mailto:virajnbhutada24@gmail.com)
-- Feel free to reach out to me via email at your-email@example.com. I'm always open to connecting and discussing exciting opportunities! Whether it's a data science project, collaboration, or just a friendly conversation, don't hesitate to get in touch.
+- Feel free to reach out to me via email at virajnbhutada24@gmail.com. I'm always open to connecting and discussing exciting opportunities! Whether it's a data science project, collaboration, or just a friendly conversation, don't hesitate to get in touch.
 
 ---
 
