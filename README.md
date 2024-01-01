@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm a dedicated data enthusiast and aspiring data 
 
 #  Connect with Me
 
-## LinkedIn <a href="https://linkedin.com/in/https://www.linkedin.com/in/virajnbhutada24/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/virajnbhutada24/" height="25" width="30" /></a>
+## LinkedIn <a href="https://www.linkedin.com/in/virajnbhutada24/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/virajnbhutada24/" height="25" width="30" /></a>
 - Let's connect on LinkedIn! Explore my professional profile and stay updated on my latest endeavors in the world of data science. Whether you're interested in collaboration, networking, or discussing data-driven insights, I look forward to connecting with you.
 
 ## Twitter<a href="https://twitter.com/virajbhutada1077" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="virajbhutada1077" height="30" width="40" /></a>
