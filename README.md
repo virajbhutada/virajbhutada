@@ -109,16 +109,17 @@ Feel free to reach out, and let's embark on a data-driven journey. Happy coding!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/virajbhutada1077" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="virajbhutada1077" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/virajnbhutada24/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/virajnbhutada24/" height="30" width="40" /></a>
+<a href="https://twitter.com/virajbhutada1077" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="virajbhutada1077" height="30" width="40" /></a>
 <a href="https://kaggle.com/https://www.kaggle.com/virajnarendrabhutada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/virajnarendrabhutada" height="30" width="40" /></a>
+<a href="https://www.instagram.com/iamviraj71/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/iamviraj71/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/profile.php?id=61550503332305" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=61550503332305" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/iamviraj71/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/iamviraj71/" height="30" width="40" /></a>
 <a href="https://medium.com/@virajnbhutada24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@virajnbhutada24" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/http://www.youtube.com/@virajnbhutada24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="http://www.youtube.com/@virajnbhutada24" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/virajnbhutada24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/virajnbhutada24" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/virajnbhutada24/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/virajnbhutada24/" height="30" width="40" /></a>
 </p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
@@ -130,30 +131,4 @@ Feel free to reach out, and let's embark on a data-driven journey. Happy coding!
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=virajbhutada&" alt="virajbhutada" /></p>
 
 ---
-
-
-# Hello, I'm Viraj Bhutada!
-
-Welcome to my GitHub profile! I'm a dedicated data enthusiast and aspiring data scientist, on a journey to extract meaningful insights from the vast realm of data. Here's a glimpse of my expertise:
-
-<!-- Add the badges here -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=virajbhutada&label=Profile%20views&color=0e75b6&style=flat" alt="virajbhutada" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=virajbhutada" alt="virajbhutada" /></a> </p>
-<p align="left"> <a href="https://twitter.com/virajbhutada1077" target="blank"><img src="https://img.shields.io/twitter/follow/virajbhutada1077?logo=twitter&style=for-the-badge" alt="virajbhutada1077" /></a> </p>
-
-## 🌐 Connect with Me
-
-### LinkedIn
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/virajnbhutada24)
-
-<!-- Add other social badges here -->
-
-## 📊 GitHub Stats
-
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=virajbhutada&show_icons=true&theme=radical&exclude_repo=repo1,repo2,repo3)](https://github.com/virajbhutada)
-
-<!-- Add other stats badges here -->
-
-## 💻 Explore My Work
-...
 
