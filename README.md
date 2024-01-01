@@ -151,24 +151,6 @@ Feel free to explore each badge to learn more about my journey and expertise in 
   <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer" style="text-decoration: none; outline: none;"><img src="https://img.icons8.com/color/48/000000/google-colab.png" alt="Google Colab" width="40" height="40"/></a>
 </p>
 
-
----
-
-## Skills and Technologies
-
-### Data Science & Machine Learning
-![Python](https://img.shields.io/badge/Python-3.8-blue?style=for-the-badge&logo=python)
-![SQL](https://img.shields.io/badge/SQL-Intermediate-orange?style=for-the-badge&logo=sql)
-![Power BI](https://img.shields.io/badge/Power%20BI-Advanced-yellow?style=for-the-badge&logo=powerbi)
-
-### Data Analysis & Visualization
-![Tableau](https://img.shields.io/badge/Tableau-Expert-lightblue?style=for-the-badge&logo=tableau)
-![Excel](https://img.shields.io/badge/Excel-Advanced-green?style=for-the-badge&logo=microsoftexcel)
-
-### Machine Learning & Stats
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML%20Library-blueviolet?style=for-the-badge&logo=scikit-learn)
-![Statistics](https://img.shields.io/badge/Statistics-Intermediate-green?style=for-the-badge&logo=statistics)
-
 ---
 
 ## 📊 GitHub Contribution Streak
