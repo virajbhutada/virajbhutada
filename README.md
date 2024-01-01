@@ -23,7 +23,8 @@ Welcome to my GitHub profile! I'm a dedicated data enthusiast and aspiring data 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/VirajBhutada24)
 - Follow me on Twitter for updates on data science, technology, and more. Join the conversation and stay connected with the latest trends and discussions in the data science community.
 
-### GitLab
+### GitLab <a href="https://gitlab.com/virajbhutada" target="_blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVpB0GPEKD9ncH25z06w-IJ1tME6D7jCSPzcgT2pCNjA&s" alt="GitLab" height="30" width="40" /></a>
+
 [![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/virajbhutada)
 - Explore my GitLab repositories for projects and contributions beyond GitHub. Collaborate, contribute, and discover code repositories hosted on GitLab.
 
