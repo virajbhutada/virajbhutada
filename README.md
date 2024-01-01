@@ -126,49 +126,11 @@ Feel free to explore each badge to learn more about my journey and expertise in 
 
 <h3 align="left">Visualization:</h3>
 <p align="left">
-  <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a>
+  <a href="https://d3js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/></a>
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer" style="text-decoration: none; outline: none;"><img src="https://img.icons8.com/color/48/000000/matplotlib.png" alt="Matplotlib" width="40" height="40"/></a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
-  <a href="https://plotly.com/" target="_blank" rel="noreferrer" style="text-decoration: none; outline: none;"><img src="https://img.icons8.com/color/48/000000/plotly.png" alt="Plotly" width="40" height="40"/></a>
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/></a>
+  <a href="https://plotly.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/plot_ly/plot_ly-icon.svg" alt="plotly" width="40" height="40"/></a>
 </p>
-
----
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Library Badges</title>
-</head>
-<body>
-
-<!-- Matplotlib Badge -->
-<a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/matplotlib/matplotlib-icon.svg" alt="matplotlib" width="40" height="40"/>
-</a>
-
-<!-- Plotly Badge -->
-<a href="https://plotly.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/plot_ly/plot_ly-icon.svg" alt="plotly" width="40" height="40"/>
-</a>
-
-<!-- Keras Badge -->
-<a href="https://keras.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/keras/keras-icon.svg" alt="keras" width="40" height="40"/>
-</a>
-
-<!-- OpenAI GPT-3 Badge -->
-<a href="https://www.openai.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/openai/openai-icon.svg" alt="openai" width="40" height="40"/>
-</a>
-
-<!-- Jupyter Notebook Badge -->
-<a href="https://jupyter.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="jupyter" width="40" height="40"/>
-</a>
-
-</body>
-</html>
 
 ---
 
@@ -178,23 +140,24 @@ Feel free to explore each badge to learn more about my journey and expertise in 
   <a href="https://www.openai.com/" target="_blank" rel="noreferrer" style="text-decoration: none; outline: none;"><img src="https://img.icons8.com/color/48/000000/chat.png" alt="ChatGPT" width="40" height="40"/></a>
 </p>
 
-
 ---
+
 <h3 align="left">Version Control:</h3>
 <p align="left">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="text-decoration: none; outline: none;"><img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40" height="40"/></a>
   <a href="https://github.com/" target="_blank" rel="noreferrer" style="text-decoration: none; outline: none;"><img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" width="40" height="40"/></a>
 </p>
 
-<h3 align="left">IDE:</h3>
-<p align="left">
-  <a href="https://jupyter.org/" target="_blank" rel="noreferrer" style="text-decoration: none; outline: none;"><img src="https://img.icons8.com/color/48/000000/jupyter.png" alt="Jupyter Notebook" width="40" height="40"/></a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer" style="text-decoration: none; outline: none;"><img src="https://img.icons8.com/color/48/000000/visual-studio-code.png" alt="VS Code" width="40" height="40"/></a>
-  <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer" style="text-decoration: none; outline: none;"><img src="https://img.icons8.com/color/48/000000/google-colab.png" alt="Google Colab" width="40" height="40"/></a>
-</p>
-
 ---
 
+<h3 align="left">IDE:</h3>
+<p align="left">
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer"><img                                                                    src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" height="40"/></a>
+  <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer" style="text-decoration: none; outline: none;"><img src="https://img.icons8.com/color/48/000000/google-colab.png" alt="Google Colab" width="40" height="40"/></a>
+  <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="jupyter" width="40" height="40"/>
+</a>
+</p>
 
 ---
 
