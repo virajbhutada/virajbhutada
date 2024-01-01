@@ -95,8 +95,31 @@ Feel free to reach out, and let's embark on a data-driven journey. Happy coding!
 
 
 
+<!-- LinkedIn Badge -->
 <a href="https://www.linkedin.com/in/virajnbhutada24/" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
 </a>
 <span>&nbsp;</span>
-<span>Connect with me on LinkedIn for professional networking and data science discussions.</span>
+<span>Let's connect on LinkedIn! Explore my professional profile and stay updated on my latest endeavors in the world of data science. Whether you're interested in collaboration, networking, or discussing data-driven insights, I look forward to connecting with you.</span>
+
+<!-- Twitter Badge -->
+<a href="https://twitter.com/VirajBhutada24" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+</a>
+<span>&nbsp;</span>
+<span>Follow me on Twitter for updates on data science, technology, and more. Join the conversation!</span>
+
+<!-- GitLab Badge -->
+<a href="https://gitlab.com/virajbhutada" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gitlab.svg" alt="GitLab" height="30" width="40" />
+</a>
+<span>&nbsp;</span>
+<span>Explore my GitLab repositories for projects and contributions beyond GitHub. Collaborate, contribute, and discover code repositories hosted on GitLab.</span>
+
+<!-- Email Badge -->
+<a href="mailto:virajnbhutada24@gmail.com">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40" />
+</a>
+<span>&nbsp;</span>
+<span>Feel free to reach out to me via email at virajnbhutada24@gmail.com. I'm always open to connecting and discussing exciting opportunities!</span>
+
