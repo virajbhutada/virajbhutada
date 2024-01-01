@@ -122,35 +122,36 @@ Feel free to explore each badge to learn more about my journey and expertise in 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer" style="text-decoration: none;">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer" style="text-decoration: none; outline: none;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
   <!-- Power BI -->
-  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
+  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer" style="text-decoration: none; outline: none;">
     <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="40" height="40"/>
   </a>
   <!-- Excel -->
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer" style="text-decoration: none;">
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer" style="text-decoration: none; outline: none;">
     <img src="https://img.icons8.com/color/48/000000/ms-excel.png" alt="Excel" width="40" height="40"/>
   </a>
   <!-- SQL -->
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer" style="text-decoration: none;">
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer" style="text-decoration: none; outline: none;">
     <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" alt="SQL" width="40" height="40"/>
   </a>
   <!-- PostgreSQL -->
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer" style="text-decoration: none;">
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer" style="text-decoration: none; outline: none;">
     <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL" width="40" height="40"/>
   </a>
   <!-- MySQL -->
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="text-decoration: none; outline: none;">
     <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="40" height="40"/>
   </a>
   <!-- Tableau -->
-  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
+  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer" style="text-decoration: none; outline: none;">
     <img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau" width="40" height="40"/>
   </a>
   <!-- Add other libraries/icons in a similar way -->
 </p>
+
 
 
 ---
