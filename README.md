@@ -159,7 +159,32 @@ Feel free to explore each badge to learn more about my journey and expertise in 
 </a>
 </p>
 
+
 ---
+## LeetCode
+<a href="https://leetcode.com/virajnbhutada24/" target="blank"><img align="center" src="<URL_TO_SMALL_LEETCODE_BADGE>" alt="LeetCode" height="20" width="20" /></a>
+- Solving LeetCode problems to sharpen my coding and algorithmic skills.
+
+## Tableau
+<a href="https://public.tableau.com/app/profile/viraj.bhutada/vizzes" target="blank"><img align="center" src="<URL_TO_SMALL_TABLEAU_BADGE>" alt="Tableau" height="20" width="20" /></a>
+- Showcasing data visualization projects using Tableau.
+
+## HackerRank
+<a href="https://www.hackerrank.com/profile/virajnbhutada24" target="blank"><img align="center" src="<URL_TO_SMALL_HACKERRANK_BADGE>" alt="HackerRank" height="20" width="20" /></a>
+- Participating in coding challenges and competitions on HackerRank.
+
+## Google Cloud Skills Boost
+<a href="https://www.cloudskillsboost.google/public_profiles/1fe01bf9-78f3-4e57-a935-c7486b6856e1" target="blank"><img align="center" src="<URL_TO_SMALL_GOOGLE_CLOUD_BADGE>" alt="Google Cloud Skills Boost" height="20" width="20" /></a>
+- Demonstrating proficiency in Google Cloud technologies.
+
+## Salesforce Trailblazer
+<a href="https://www.salesforce.com/trailblazer/virajbhutada" target="blank"><img align="center" src="<URL_TO_SMALL_SALESFORCE_BADGE>" alt="Salesforce Trailblazer" height="20" width="20" /></a>
+- Recognized as a Salesforce Trailblazer for contributions to the Salesforce community.
+
+## Microsoft Learn
+<a href="https://learn.microsoft.com/en-us/users/virajbhutada-6329/" target="blank"><img align="center" src="<URL_TO_SMALL_MICROSOFT_LEARN_BADGE>" alt="Microsoft Learn" height="20" width="20" /></a>
+- Engaging with Microsoft Learn to acquire and showcase Microsoft-related skills.
+
 
 
 ## 📊 GitHub Contribution Streak
