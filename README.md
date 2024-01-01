@@ -103,11 +103,46 @@ Feel free to explore each badge to learn more about my journey and expertise in 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
+<img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="40" height="40"/>
+</a> 
+<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
+<img src="https://img.icons8.com/color/48/000000/ms-excel.png" alt="Excel" width="40" height="40"/>
+</a>  
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
+<img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" alt="SQL" width="40" height="40"/>
+</a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+<img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL" width="40" height="40"/>
+</a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+<img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="40" height="40"/>
+</a>
+</p>
 
-  
+
 ---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=virajbhutada&background=DEG,COLOR1,COLOR2,COLOR3,COLOR4,COLOR5,COLOR6,COLOR7&theme=radical" alt="virajbhutada" /></p>
+## 🛠️ Skills and Technologies
+
+### Data Science & Machine Learning
+![Python](https://img.shields.io/badge/Python-3.8-blue?style=for-the-badge&logo=python)
+![SQL](https://img.shields.io/badge/SQL-Intermediate-orange?style=for-the-badge&logo=sql)
+![Power BI](https://img.shields.io/badge/Power%20BI-Advanced-yellow?style=for-the-badge&logo=powerbi)
+
+### Data Analysis & Visualization
+![Tableau](https://img.shields.io/badge/Tableau-Expert-lightblue?style=for-the-badge&logo=tableau)
+![Excel](https://img.shields.io/badge/Excel-Advanced-green?style=for-the-badge&logo=microsoftexcel)
+
+### Machine Learning & Stats
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML%20Library-blueviolet?style=for-the-badge&logo=scikit-learn)
+![Statistics](https://img.shields.io/badge/Statistics-Intermediate-green?style=for-the-badge&logo=statistics)
+
+---
+
+## 📊 GitHub Contribution Streak
+
+[![GitHub Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=virajbhutada&background=DEG,COLOR1,COLOR2,COLOR3,COLOR4,COLOR5,COLOR6,COLOR7&theme=radical)](https://github.com/virajbhutada)
 
 ---
 
