@@ -84,10 +84,7 @@ Feel free to explore each badge to learn more about my journey and expertise in 
 
 [![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=virajbhutada&show_icons=true&theme=radical&exclude_repo=repo1,repo2,repo3)](https://github.com/virajbhutada)
 
-
-
 ----
-
 
 <h3 align="left">Socials:</h3>
 <p align="left">
@@ -101,24 +98,7 @@ Feel free to explore each badge to learn more about my journey and expertise in 
 <a href="https://www.leetcode.com/https://leetcode.com/virajnbhutada24/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/virajnbhutada24/" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p> <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-<img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="40" height="40"/>
-</a> <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
-<img src="https://img.icons8.com/color/48/000000/ms-excel.png" alt="Excel" width="40" height="40"/>
-</a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-<img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" alt="SQL" width="40" height="40"/>
-</a> <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-<img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL" width="40" height="40"/>
-</a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-<img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="40" height="40"/>
-</a> <!-- Tableau --> <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
-<img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau" width="40" height="40"/>
-</a>
-</p>
-----
-
-
+---
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
