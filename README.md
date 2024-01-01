@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm a dedicated data enthusiast and aspiring data 
 
 ---
 
-#  Connect with Me
+## Contact Details
 
 ## LinkedIn <a href="https://www.linkedin.com/in/virajnbhutada24/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/virajnbhutada24/" height="25" width="30" /></a>
 - Let's connect on LinkedIn! Explore my professional profile and stay updated on my latest endeavors in the world of data science. Whether you're interested in collaboration, networking, or discussing data-driven insights, I look forward to connecting with you.
