@@ -60,7 +60,7 @@ Welcome to my developer profile! Here, you can find information about my achieve
 [![Tableau](https://img.shields.io/badge/Tableau-virajbhutada-lightblue?style=for-the-badge&logo=tableau)](https://public.tableau.com/app/profile/viraj.bhutada/vizzes)
 - Showcasing data visualization projects using Tableau.
 
-## HackerRank<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/virajnbhutada24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/virajnbhutada24" height="50" width="50" /></a>
+## HackerRank<a href="https://www.hackerrank.com/profile/virajnbhutada24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/virajnbhutada24" height="50" width="50" /></a>
 [![HackerRank](https://img.shields.io/badge/HackerRank-virajnbhutada24-brightorange?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/profile/virajnbhutada24)
 - Participating in coding challenges and competitions on HackerRank.
 
