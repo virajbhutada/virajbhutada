@@ -128,3 +128,32 @@ Feel free to reach out, and let's embark on a data-driven journey. Happy coding!
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=virajbhutada&show_icons=true&locale=en" alt="virajbhutada" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=virajbhutada&" alt="virajbhutada" /></p>
+
+---
+
+
+# Hello, I'm Viraj Bhutada!
+
+Welcome to my GitHub profile! I'm a dedicated data enthusiast and aspiring data scientist, on a journey to extract meaningful insights from the vast realm of data. Here's a glimpse of my expertise:
+
+<!-- Add the badges here -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=virajbhutada&label=Profile%20views&color=0e75b6&style=flat" alt="virajbhutada" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=virajbhutada" alt="virajbhutada" /></a> </p>
+<p align="left"> <a href="https://twitter.com/virajbhutada1077" target="blank"><img src="https://img.shields.io/twitter/follow/virajbhutada1077?logo=twitter&style=for-the-badge" alt="virajbhutada1077" /></a> </p>
+
+## 🌐 Connect with Me
+
+### LinkedIn
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/virajnbhutada24)
+
+<!-- Add other social badges here -->
+
+## 📊 GitHub Stats
+
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=virajbhutada&show_icons=true&theme=radical&exclude_repo=repo1,repo2,repo3)](https://github.com/virajbhutada)
+
+<!-- Add other stats badges here -->
+
+## 💻 Explore My Work
+...
+
