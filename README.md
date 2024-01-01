@@ -111,5 +111,4 @@ Feel free to reach out, and let's embark on a data-driven journey. Happy coding!
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=virajbhutada&background=DEG,COLOR1,COLOR2,COLOR3,COLOR4,COLOR5,COLOR6,COLOR7&theme=white-transparent" alt="virajbhutada" /></p>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=virajbhutada&background=DEG,COLOR1,COLOR2,COLOR3,COLOR4,COLOR5,COLOR6,COLOR7&theme=radical" alt="virajbhutada" /></p>
