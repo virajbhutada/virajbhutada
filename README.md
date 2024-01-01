@@ -66,7 +66,7 @@ Welcome to my developer profile! Here, you can find information about my achieve
 
 ## Google Cloud Skills Boost
 [![Google Cloud Skills Boost](https://img.shields.io/badge/Google%20Cloud%20Skills%20Boost-virajnbhutada24-yellow?style=for-the-badge&logo=googlecloud)](https://www.cloudskillsboost.google/public_profiles/1fe01bf9-78f3-4e57-a935-c7486b6856e1)
-- Demonstrating proficiency in Google Cloud technologies.
+- Demonstrating proficiency in Google Cloud technologies. <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
 
 ## Salesforce Trailblazer
 [![Salesforce Trailblazer](https://img.shields.io/badge/Salesforce%20Trailblazer-virajbhutada-blue?style=for-the-badge&logo=salesforce)](https://www.salesforce.com/trailblazer/virajbhutada)
@@ -119,17 +119,58 @@ Feel free to explore each badge to learn more about my journey and expertise in 
 
 <h3 align="left">Machine Learning:</h3>
 <p align="left">
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer" style="text-decoration: none; outline: none;"><img src="https://img.icons8.com/color/48/000000/scikit-learn.png" alt="Scikit-learn" width="40" height="40"/></a>
-  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer" style="text-decoration: none; outline: none;"><img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow" width="40" height="40"/></a>
-  <a href="https://keras.io/" target="_blank" rel="noreferrer" style="text-decoration: none; outline: none;"><img src="https://img.icons8.com/color/48/000000/keras.png" alt="Keras" width="40" height="40"/></a>
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a>
+<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer" style="text-decoration: none; outline: none;"><img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow" width="40" height="40"/></a>
+<a href="https://keras.io/" target="_blank" rel="noreferrer" style="text-decoration: none; outline: none;"><img src="https://img.icons8.com/color/48/000000/keras.png" alt="Keras" width="40" height="40"/></a>
 </p>
 
 <h3 align="left">Visualization:</h3>
 <p align="left">
+  <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a>
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer" style="text-decoration: none; outline: none;"><img src="https://img.icons8.com/color/48/000000/matplotlib.png" alt="Matplotlib" width="40" height="40"/></a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer" style="text-decoration: none; outline: none;"><img src="https://img.icons8.com/color/48/000000/seaborn.png" alt="Seaborn" width="40" height="40"/></a>
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
   <a href="https://plotly.com/" target="_blank" rel="noreferrer" style="text-decoration: none; outline: none;"><img src="https://img.icons8.com/color/48/000000/plotly.png" alt="Plotly" width="40" height="40"/></a>
 </p>
+
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Library Badges</title>
+</head>
+<body>
+
+<!-- Matplotlib Badge -->
+<a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/matplotlib/matplotlib-icon.svg" alt="matplotlib" width="40" height="40"/>
+</a>
+
+<!-- Plotly Badge -->
+<a href="https://plotly.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/plot_ly/plot_ly-icon.svg" alt="plotly" width="40" height="40"/>
+</a>
+
+<!-- Keras Badge -->
+<a href="https://keras.io/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/keras/keras-icon.svg" alt="keras" width="40" height="40"/>
+</a>
+
+<!-- OpenAI GPT-3 Badge -->
+<a href="https://www.openai.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/openai/openai-icon.svg" alt="openai" width="40" height="40"/>
+</a>
+
+<!-- Jupyter Notebook Badge -->
+<a href="https://jupyter.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="jupyter" width="40" height="40"/>
+</a>
+
+</body>
+</html>
+
+---
 
 <h3 align="left">GenAI:</h3>
 <p align="left">
@@ -137,6 +178,8 @@ Feel free to explore each badge to learn more about my journey and expertise in 
   <a href="https://www.openai.com/" target="_blank" rel="noreferrer" style="text-decoration: none; outline: none;"><img src="https://img.icons8.com/color/48/000000/chat.png" alt="ChatGPT" width="40" height="40"/></a>
 </p>
 
+
+---
 <h3 align="left">Version Control:</h3>
 <p align="left">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="text-decoration: none; outline: none;"><img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40" height="40"/></a>
@@ -151,6 +194,10 @@ Feel free to explore each badge to learn more about my journey and expertise in 
 </p>
 
 ---
+
+
+---
+
 
 ## 📊 GitHub Contribution Streak
 
