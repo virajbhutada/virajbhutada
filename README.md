@@ -19,10 +19,6 @@ Welcome to my GitHub profile! I'm a dedicated data enthusiast and aspiring data 
 ## LinkedIn <a href="https://www.linkedin.com/in/virajnbhutada24/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/virajnbhutada24/" height="25" width="30" /></a>
 - Let's connect on LinkedIn! Explore my professional profile and stay updated on my latest endeavors in the world of data science. Whether you're interested in collaboration, networking, or discussing data-driven insights, I look forward to connecting with you.
 
-## GitLab<a href="https://gitlab.com/virajbhutada" target="_blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVpB0GPEKD9ncH25z06w-IJ1tME6D7jCSPzcgT2pCNjA&s" alt="GitLab" height="40" width="40" /></a>
-
-- Explore my GitLab repositories for projects and contributions beyond GitHub. Collaborate, contribute, and discover code repositories hosted on GitLab.
-
 ## Email<a href="mailto:virajnbhutada24@gmail.com" target="_blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/021/514/701/non_2x/google-gmail-logo-symbol-design-illustration-with-black-background-free-vector.jpg" alt="Gmail" height="30" width="40" /></a>
 
 - Feel free to reach out to me via email at virajnbhutada24@gmail.com. I'm always open to connecting and discussing exciting opportunities! Whether it's a data science project, collaboration, or just a friendly conversation, don't hesitate to get in touch.
@@ -30,7 +26,8 @@ Welcome to my GitHub profile! I'm a dedicated data enthusiast and aspiring data 
 ---
 
 ## 💻 Explore My Work
-Feel free to explore my repositories and projects. I'm passionate about leveraging data to drive innovation. Here are some highlights:
+
+Feel free to peruse my repositories and projects. I'm dedicated to harnessing the power of data to foster innovation. Here are some highlights: Investigate my GitLab repositories for projects and contributions extending beyond GitHub. Engage, contribute, and uncover code repositories hosted on GitLab. You can also explore my GitLab profile [here](https://gitlab.com/virajbhutada)                                       
 
 - **Predictive Modeling:** Implemented predictive models for various datasets, showcasing my proficiency in regression, classification, and clustering algorithms.
 
@@ -130,9 +127,11 @@ Feel free to explore each badge to learn more about my journey and expertise in 
 
 <h3 align="left">Version Control:</h3>
 <p align="left">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="text-decoration: none; outline: none;"><img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40" height="40"/></a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer" style="text-decoration: none; outline: none;"><img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" width="40" height="40"/></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="text-decoration: none; outline: none; border: none;"><img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40" height="40"/></a>
+<a href="https://github.com/" target="_blank" rel="noreferrer" style="text-decoration: none; outline: none; border: none;"><img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" width="40" height="40"/></a>
+<a href="https://gitlab.com/virajbhutada" target="_blank" rel="noopener noreferrer" style="border: none;"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVpB0GPEKD9ncH25z06w-IJ1tME6D7jCSPzcgT2pCNjA&s" alt="GitLab" width="40" height="40"/></a>
 </p>
+
 
 ---
 
@@ -219,4 +218,19 @@ Feel free to reach out, and let's embark on a data-driven journey. Happy coding!
 </p>
 
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Google Looker Studio Embed</title>
+</head>
+<body>
+    <!-- Embed Looker Studio -->
+    <iframe src="https://your-looker-instance.looker.com/embed/dashboards-next/your-dashboard-id" width="100%" height="800px" frameborder="0" allowfullscreen></iframe>
+
+    <!-- Optional: Add any additional styling or scripts as needed -->
+
+</body>
+</html>
 
