@@ -19,15 +19,11 @@ Welcome to my GitHub profile! I'm a dedicated data enthusiast and aspiring data 
 ## LinkedIn <a href="https://www.linkedin.com/in/virajnbhutada24/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/virajnbhutada24/" height="25" width="30" /></a>
 - Let's connect on LinkedIn! Explore my professional profile and stay updated on my latest endeavors in the world of data science. Whether you're interested in collaboration, networking, or discussing data-driven insights, I look forward to connecting with you.
 
-## Twitter<a href="https://twitter.com/virajbhutada1077" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="virajbhutada1077" height="30" width="40" /></a>
-- Follow me on Twitter for updates on data science, technology, and more. Join the conversation and stay connected with the latest trends and discussions in the data science community.
-
 ## GitLab<a href="https://gitlab.com/virajbhutada" target="_blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVpB0GPEKD9ncH25z06w-IJ1tME6D7jCSPzcgT2pCNjA&s" alt="GitLab" height="40" width="40" /></a>
 
 - Explore my GitLab repositories for projects and contributions beyond GitHub. Collaborate, contribute, and discover code repositories hosted on GitLab.
 
 ## Email<a href="mailto:virajnbhutada24@gmail.com" target="_blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/021/514/701/non_2x/google-gmail-logo-symbol-design-illustration-with-black-background-free-vector.jpg" alt="Gmail" height="30" width="40" /></a>
-
 
 - Feel free to reach out to me via email at virajnbhutada24@gmail.com. I'm always open to connecting and discussing exciting opportunities! Whether it's a data science project, collaboration, or just a friendly conversation, don't hesitate to get in touch.
 
@@ -162,4 +158,65 @@ Feel free to explore each badge to learn more about my journey and expertise in 
 ## 🌟 Let's Connect and Innovate Together!
 
 Feel free to reach out, and let's embark on a data-driven journey. Happy coding!
+
+---
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <!-- Programming Languages -->
+  <a href="https://www.python.org" target="_blank" rel="noreferrer" style="text-decoration: none; outline: none;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+</p>
+
+<h3 align="left">Databases:</h3>
+<p align="left">
+  <!-- Databases -->
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer" style="text-decoration: none; outline: none;">
+    <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" alt="SQL Server" width="40" height="40"/>
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer" style="text-decoration: none; outline: none;">
+    <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="text-decoration: none; outline: none;">
+    <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="40" height="40"/>
+  </a>
+</p>
+
+<h3 align="left">Visualization:</h3>
+<p align="left">
+  <!-- Visualization Tools -->
+  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer" style="text-decoration: none; outline: none;">
+    <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="40" height="40"/>
+  </a>
+  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer" style="text-decoration: none; outline: none;">
+    <img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau" width="40" height="40"/>
+  </a>
+  <a href="https://looker.com/" target="_blank" rel="noreferrer" style="text-decoration: none; outline: none;">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVpB0GPEKD9ncH25z06w-IJ1tME6D7jCSPzcgT2pCNjA&s" alt="Google Looker Studio" height="40" width="40"/>
+  </a>
+</p>
+
+
+<h3 align="left">Libraries:</h3>
+<p align="left">
+  <!-- Data Analysis Libraries -->
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer" style="text-decoration: none; outline: none;">
+    <img src="https://img.icons8.com/color/48/000000/pandas.png" alt="Pandas" width="40" height="40"/>
+  </a>
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer" style="text-decoration: none; outline: none;">
+    <img src="https://img.icons8.com/color/48/000000/numpy.png" alt="NumPy" width="40" height="40"/>
+  </a>
+  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer" style="text-decoration: none; outline: none;">
+    <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow" width="40" height="40"/>
+  </a>
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/>
+  </a>
+  <a href="https://plotly.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/plot_ly/plot_ly-icon.svg" alt="Plotly" width="40" height="40"/>
+  </a>
+</p>
+
+
 
