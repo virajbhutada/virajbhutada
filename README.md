@@ -46,7 +46,7 @@ Feel free to peruse my repositories and projects. I'm dedicated to harnessing th
 Welcome to my developer profile! Here, you can find information about my achievements and skills across various platforms.
 
 ## LeetCode<a href="https://www.leetcode.com/https://leetcode.com/virajnbhutada24/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/virajnbhutada24/" height="30" width="40" /></a>
-[![LeetCode](https://img.shields.io/badge/LeetCode-virajnbhutada24-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/virajnbhutada24/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-virajnbhutada24-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/virajnbhutada24/) 
 - Solving LeetCode problems to sharpen my coding and algorithmic skills.
 
 ## Tableau <a href="https://www.tableau.com/" target="_blank" rel="noreferrer" style="text-decoration: none; outline: none;"><img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau" width="25" height="25"/></a>
