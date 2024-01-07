@@ -160,10 +160,3 @@ Feel free to explore each badge to learn more about my journey and expertise in 
 ## 🌟 Let's Connect and Innovate Together!
 
 Feel free to reach out, and let's embark on a data-driven journey. Happy coding!
-
-
-# LeetCode
-<a href="https://leetcode.com/virajnbhutada24/" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-virajnbhutada24-orange?style=for-the-badge&logo=leetcode" alt="LeetCode" height="25" width="40" /></a>
-- Solving LeetCode problems to sharpen my coding and algorithmic skills.
-
-
