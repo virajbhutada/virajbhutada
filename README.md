@@ -35,23 +35,25 @@ I am a dedicated data enthusiast and aspiring data scientist, committed to extra
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-lavender?style=for-the-badge&logoColor=white&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIj4KICA8Y2lyY2xlIGN4PSI1MCIgY3k9IjUwIiByPSI1MCIgc3R5bGU9ImZpbGw6cmVkOyIgLz4KPC9zdmc+Cg==)](https://sites.google.com/view/virajnbhutada24/home)
 
 
+## Portfolio Highlights
 
-### Portfolio Highlights
-As a dedicated data enthusiast and aspiring data scientist, I've had the opportunity to work on various projects that showcase my skills in data science and machine learning. Here are key highlights:
+Had the opportunity to work on various projects that showcase my skills in Data Science and Machine Learning. Here are key highlights:
 
-- **Predictive Modeling:** Implemented predictive models for various datasets, showcasing my proficiency in regression, classification, and clustering algorithms.
 
-- **Data Visualization:**
-  - **Tableau:** Created interactive and insightful visualizations using Tableau, bringing data to life and making it accessible to a wider audience.
-  - **Power BI:** Developed compelling data visualizations and dashboards in Power BI to communicate complex insights and support data-driven decision-making.
-  - **Microsoft Excel:** Utilized advanced Excel functionalities to design visually appealing and informative charts, graphs, and reports.
-  - **Google Looker Studio:** Produced engaging and effective visualizations in Google Looker Studio, enhancing data understanding and facilitating informed decision-making.
+| **Category**                                           | **Description**                                                                                      |
+|--------------------------------------------------------|------------------------------------------------------------------------------------------------------|
+| **Predictive Modeling**                               | Implemented predictive models for various datasets, showcasing my proficiency in regression, classification, and clustering algorithms.                 |
+| **Data Visualization**                                 | **Tableau:** Created interactive and insightful visualizations using Tableau, bringing data to life and making it accessible to a wider audience.       |
+|                                                        | **Power BI:** Developed compelling data visualizations and dashboards in Power BI to communicate complex insights and support data-driven decision-making.   |
+|                                                        | **Microsoft Excel:** Utilized advanced Excel functionalities to design visually appealing and informative charts, graphs, and reports.                  |
+|                                                        | **Google Looker Studio:** Produced engaging and effective visualizations in Google Looker Studio, enhancing data understanding and facilitating informed decision-making. |
+| **Coding Challenges**                                  | Participated in coding challenges and competitions to enhance problem-solving skills and algorithmic thinking.                                           |
+| **Version Control**                                    | Utilized Git for version control, managing code repositories and collaborative projects.                                                                   |
+| **Collaboration and Networking**                        | Actively engaging in the data science community, participating in discussions, and collaborating on exciting projects.  |
 
-- **Hackerrank Challenges:** Participated in coding challenges and competitions on HackerRank, enhancing my problem-solving skills and algorithmic thinking.
+Let's connect! Explore my data projects and collaborate on innovative endeavors in data science.
 
-- **GitLab Repositories:** Investigate my GitLab repositories for projects and contributions extending beyond GitHub. Engage, contribute, and uncover code repositories hosted on GitLab. You can also explore my [GitLab profile here](https://gitlab.com/virajbhutada).
 
-Feel free to explore each project to learn more about my work. I'm passionate about leveraging data to drive innovation and make informed decisions. Let's connect and discuss how we can collaborate on exciting data-driven projects!
 
 ---
 
