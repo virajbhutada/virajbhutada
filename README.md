@@ -50,7 +50,7 @@ Feel free to explore each project to learn more about my work. I'm passionate ab
 
 ---
 
-# 👨‍💻 Developer Profile
+# 👨🏽‍💻 Developer Profile
 
 Explore my comprehensive developer profile showcasing achievements and skills across diverse platforms.
 
@@ -143,7 +143,7 @@ Feel free to explore each badge to learn more about my journey and expertise in 
 ---
 
 
-## 📊 GitHub Contribution Streak
+## 📈 GitHub Contribution Streak
 
 [![GitHub Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=virajbhutada&background=DEG,COLOR1,COLOR2,COLOR3,COLOR4,COLOR5,COLOR6,COLOR7&theme=radical)](https://github.com/virajbhutada)
 
