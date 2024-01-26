@@ -20,7 +20,6 @@ I am a dedicated data enthusiast and aspiring data scientist, committed to extra
 - 📊 Experienced in data preprocessing, feature engineering, and model evaluation to ensure robust and accurate analyses.
 - 💼 Open to collaborations on data-related projects, research, or any exciting opportunities in the field of data science.
 
-Join me on this exciting venture into the world of data, where curiosity meets analytics. Together, let's unravel the stories hidden within the numbers and drive informed decision-making.
 
 ![Profile views](https://komarev.com/ghpvc/?username=virajbhutada&label=Profile+Views&color=blue)
 
@@ -163,4 +162,9 @@ Feel free to explore each badge to learn more about my journey and expertise in 
 
 ## 🌟 Let's Connect and Innovate Together!
 
-Feel free to reach out, and let's embark on a data-driven journey. Happy coding!
+Thank you for exploring my data-driven journey. I'm always open to collaboration, discussions, and innovation. If you share a passion for data science and the pursuit of insights, let's connect!
+
+Feel free to reach out for any data-related projects, or research opportunities, or simply to discuss the fascinating intersection of curiosity and analytics. Together, we can unravel hidden stories within the numbers and drive informed decision-making.
+
+Happy coding, and I look forward to the exciting possibilities our collaboration may unfold!
+
