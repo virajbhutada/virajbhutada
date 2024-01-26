@@ -19,14 +19,14 @@ I am a dedicated data enthusiast and aspiring data scientist, committed to extra
 
 ---
 
-# Contact Details
+### Contact Details
 
-## LinkedIn <a href="https://www.linkedin.com/in/virajnbhutada24/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/virajnbhutada24/" height="25" width="30" /></a>
-- Let's connect on LinkedIn! Explore my professional profile and stay updated on my latest endeavors in the world of data science. Whether you're interested in collaboration, networking, or discussing data-driven insights, I look forward to connecting with you.
 
-## Email<a href="mailto:virajnbhutada24@gmail.com" target="_blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/021/514/701/non_2x/google-gmail-logo-symbol-design-illustration-with-black-background-free-vector.jpg" alt="Gmail" height="30" width="40" /></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/virajnbhutada24/)](https://www.linkedin.com/in/virajnbhutada24/)   [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail&logoColor=white&link=mailto:virajnbhutada24@gmail.com)](mailto:virajnbhutada24@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/VirajBhutada24)](https://twitter.com/VirajBhutada24)
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/virajnbhutada24)](https://www.youtube.com/c/virajnbhutada24)
 
-- Reach out to me via email at virajnbhutada24@gmail.com. I'm always open to connecting and discussing exciting opportunities! Whether it's a data science project, collaboration, or just a friendly conversation, don't hesitate to get in touch.
+
 
 ---
 
