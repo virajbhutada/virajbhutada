@@ -1,24 +1,26 @@
-# ![Waving Hand](https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif) Hello, I'm Viraj Bhutada!
+# Hello, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving Hand" width="40"/>  I'm Viraj Bhutada!
 
 ## Introduction
 
 I am a dedicated data enthusiast and aspiring data scientist, committed to extracting meaningful insights from the vast realm of data. With a keen eye for uncovering patterns and trends, I bring a unique blend of analytical skills and an unwavering commitment to knowledge advancement.
 
-**Key Expertise:**
+### Key Expertise:
 
 - **Data Analysis:** Proficient in exploring and analyzing datasets to derive actionable insights.
 - **Machine Learning:** Aiming to apply advanced machine learning techniques for predictive modeling and decision-making.
 - **Data Visualization:** Skilled in creating clear and compelling visualizations to communicate complex information effectively.
 
-Join me on this exciting venture into the world of data, where curiosity meets analytics. Together, let's unravel the stories hidden within the numbers and drive informed decision-making.
 
-## 👨‍💻 Additional Details
 
+ ### Additional Details
+ 
 - 🔬 Exploring the fascinating domains of data science and machine learning.
 - 📚 Continuously enhancing my skills in Python, R, SQL, and various data analysis libraries.
 - 🤖 Passionate about building predictive models, implementing machine learning algorithms, and transforming data into actionable intelligence.
 - 📊 Experienced in data preprocessing, feature engineering, and model evaluation to ensure robust and accurate analyses.
 - 💼 Open to collaborations on data-related projects, research, or any exciting opportunities in the field of data science.
+
+Join me on this exciting venture into the world of data, where curiosity meets analytics. Together, let's unravel the stories hidden within the numbers and drive informed decision-making.
 
 ![Profile views](https://komarev.com/ghpvc/?username=virajbhutada&label=Profile+Views&color=blue)
 
