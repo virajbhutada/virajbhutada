@@ -27,7 +27,12 @@ Welcome to my GitHub profile! I'm a dedicated data enthusiast and aspiring data 
 
 ## 💻 Explore My Work
 
-Feel free to peruse my repositories and projects. I'm dedicated to harnessing the power of data to foster innovation. Here are some highlights: Investigate my GitLab repositories for projects and contributions extending beyond GitHub. Engage, contribute, and uncover code repositories hosted on GitLab. You can also explore my GitLab profile [here](https://gitlab.com/virajbhutada)                                       
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-lavender?style=for-the-badge&logoColor=white&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIj4KICA8Y2lyY2xlIGN4PSI1MCIgY3k9IjUwIiByPSI1MCIgc3R5bGU9ImZpbGw6cmVkOyIgLz4KPC9zdmc+Cg==)](https://sites.google.com/view/virajnbhutada24/home)
+
+
+
+### Portfolio Highlights
+As a dedicated data enthusiast and aspiring data scientist, I've had the opportunity to work on various projects that showcase my skills in data science and machine learning. Here are key highlights:
 
 - **Predictive Modeling:** Implemented predictive models for various datasets, showcasing my proficiency in regression, classification, and clustering algorithms.
 
@@ -38,6 +43,10 @@ Feel free to peruse my repositories and projects. I'm dedicated to harnessing th
   - **Google Looker Studio:** Produced engaging and effective visualizations in Google Looker Studio, enhancing data understanding and facilitating informed decision-making.
 
 - **Hackerrank Challenges:** Participated in coding challenges and competitions on HackerRank, enhancing my problem-solving skills and algorithmic thinking.
+
+- **GitLab Repositories:** Investigate my GitLab repositories for projects and contributions extending beyond GitHub. Engage, contribute, and uncover code repositories hosted on GitLab. You can also explore my [GitLab profile here](https://gitlab.com/virajbhutada).
+
+Feel free to explore each project to learn more about my work. I'm passionate about leveraging data to drive innovation and make informed decisions. Let's connect and discuss how we can collaborate on exciting data-driven projects!
 
 ---
 
