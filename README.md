@@ -54,7 +54,7 @@ Feel free to explore each project to learn more about my work. I'm passionate ab
 
 Welcome to my developer profile! Here, you can find information about my achievements and skills across various platforms.
 
-## LeetCode<a href="https://www.leetcode.com/https://leetcode.com/virajnbhutada24/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/virajnbhutada24/" height="30" width="40" /></a>
+## LeetCode<a href="https://leetcode.com/virajnbhutada24/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/virajnbhutada24/" height="30" width="40" /></a>
 [![LeetCode](https://img.shields.io/badge/LeetCode-virajnbhutada24-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/virajnbhutada24/) 
 - Solving LeetCode problems to sharpen my coding and algorithmic skills.
 
