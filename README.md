@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm a dedicated data enthusiast and aspiring data 
 
 ## Email<a href="mailto:virajnbhutada24@gmail.com" target="_blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/021/514/701/non_2x/google-gmail-logo-symbol-design-illustration-with-black-background-free-vector.jpg" alt="Gmail" height="30" width="40" /></a>
 
-- Feel free to reach out to me via email at virajnbhutada24@gmail.com. I'm always open to connecting and discussing exciting opportunities! Whether it's a data science project, collaboration, or just a friendly conversation, don't hesitate to get in touch.
+- Reach out to me via email at virajnbhutada24@gmail.com. I'm always open to connecting and discussing exciting opportunities! Whether it's a data science project, collaboration, or just a friendly conversation, don't hesitate to get in touch.
 
 ---
 
@@ -52,36 +52,7 @@ Feel free to explore each project to learn more about my work. I'm passionate ab
 
 # 📊 Developer Profile
 
-Welcome to my developer profile! Here, you can find information about my achievements and skills across various platforms.
-
-## LeetCode<a href="https://leetcode.com/virajnbhutada24/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/virajnbhutada24/" height="30" width="40" /></a>
-[![LeetCode](https://img.shields.io/badge/LeetCode-virajnbhutada24-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/virajnbhutada24/) 
-- Solving LeetCode problems to sharpen my coding and algorithmic skills.
-
-## Tableau <a href="https://www.tableau.com/https://public.tableau.com/app/profile/viraj.bhutada/vizzes/" target="_blank" rel="noreferrer" style="text-decoration: none; outline: none;"><img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau" width="25" height="25"/></a>
-[![Tableau](https://img.shields.io/badge/Tableau-virajbhutada-lightblue?style=for-the-badge&logo=tableau)](https://public.tableau.com/app/profile/viraj.bhutada/vizzes)
-- Showcasing data visualization projects using Tableau.
-
-## HackerRank<a href="https://www.hackerrank.com/profile/virajnbhutada24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/virajnbhutada24" height="50" width="50" /></a>
-[![HackerRank](https://img.shields.io/badge/HackerRank-virajnbhutada24-brightorange?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/profile/virajnbhutada24)
-- Participating in coding challenges and competitions on HackerRank.
-
-## Google Cloud Skills Boost <a href="https://www.cloudskillsboost.google/public_profiles/1fe01bf9-78f3-4e57-a935-c7486b6856e1" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="30" height="30"/></a> 
-[![Google Cloud Skills Boost](https://img.shields.io/badge/Google%20Cloud%20Skills%20Boost-virajnbhutada24-yellow?style=for-the-badge&logo=googlecloud)](https://www.cloudskillsboost.google/public_profiles/1fe01bf9-78f3-4e57-a935-c7486b6856e1)
-- Demonstrating proficiency in Google Cloud technologies.
-
-## Salesforce Trailblazer<a href="https://www.salesforce.com/trailblazer/virajbhutada" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Salesforce.com_logo.svg/1280px-Salesforce.com_logo.svg.png" alt="Salesforce Trailblazer" height="30" width="40" /></a>
-
-[![Salesforce Trailblazer](https://img.shields.io/badge/Salesforce%20Trailblazer-virajbhutada-blue?style=for-the-badge&logo=salesforce)](https://www.salesforce.com/trailblazer/virajbhutada)
-- Recognized as a Salesforce Trailblazer for contributions to the Salesforce community.
-
-## Microsoft Learn  <a href="https://learn.microsoft.com/en-us/users/virajbhutada-6329/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Microsoft_logo.svg/768px-Microsoft_logo.svg.png?20210729021049" alt="Microsoft Learn" height="30" width="30" /></a>
-
-
-[![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-virajbhutada-ffcc00?style=for-the-badge&logo=microsoft)](https://learn.microsoft.com/en-us/users/virajbhutada-6329/)
-- Engaging with Microsoft Learn to acquire and showcase Microsoft-related skills.
-
-Feel free to explore each badge to learn more about my journey and expertise in different domains.
+Explore my comprehensive developer profile showcasing achievements and skills across diverse platforms.
 
 
 | **Platform**           | **Profile**                                                                                    | **Description**                                                                                                                                                                      |
@@ -93,6 +64,9 @@ Feel free to explore each badge to learn more about my journey and expertise in 
 | **Salesforce Trailblazer** | <a href="https://www.salesforce.com/trailblazer/virajbhutada" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Salesforce.com_logo.svg/1280px-Salesforce.com_logo.svg.png" alt="Salesforce Trailblazer" height="30" width="40" /></a> | Distinguished as a Salesforce Trailblazer for contributions to the community. Implemented and documented innovative solutions using Salesforce, contributing to the platform's ecosystem growth.  |
 | **Microsoft Learn**     | <a href="https://learn.microsoft.com/en-us/users/virajbhutada-6329/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Microsoft_logo.svg/768px-Microsoft_logo.svg.png?20210729021049" alt="Microsoft Learn" height="30" width="30" /></a>   | Engaged proactively with Microsoft Learn to acquire and showcase Microsoft-related skills. Completed practical projects and assessments to validate knowledge in various Microsoft technologies.  |
 
+Feel free to explore each badge to learn more about my journey and expertise in different domains.
+
+---
 
 ## 📊 GitHub Stats
 
