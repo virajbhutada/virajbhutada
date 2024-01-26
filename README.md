@@ -1,9 +1,8 @@
-# Hello, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving Hand" width="40"/>  I'm Viraj Bhutada!
+# Hello, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving Hand" width="40"/>  I'm Viraj Bhutada!     ![Profile views](https://komarev.com/ghpvc/?username=virajbhutada&label=Profile+Views&color=blue)
 
 ## Introduction
 
-I am a dedicated data enthusiast and aspiring data scientist, committed to extracting meaningful insights from the vast realm of data. With a keen eye for uncovering patterns and trends, I bring a unique blend of analytical skills and an unwavering commitment to knowledge advancement.
-
+I am a dedicated data enthusiast and aspiring data scientist, committed to extracting meaningful insights from the vast realm of data. With a keen eye for uncovering patterns and trends, I bring a unique blend of analytical skills and an unwavering commitment to knowledge advancement.  
 ### Skills and Expertise
 
 | **Area**               | **Description**                                                                                      |
@@ -17,10 +16,6 @@ I am a dedicated data enthusiast and aspiring data scientist, committed to extra
 | **Data Manipulation**  | 🛠 Experienced in data preprocessing, feature engineering, and model evaluation to ensure robust and accurate analyses. |
 | **Collaboration**      | 🤝 Open to collaborations on data-related projects, research, or any exciting opportunities in the field of data science. |
 
-
-
-
-![Profile views](https://komarev.com/ghpvc/?username=virajbhutada&label=Profile+Views&color=blue)
 
 ---
 
