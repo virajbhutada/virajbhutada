@@ -71,7 +71,7 @@ Explore my comprehensive developer profile showcasing achievements and skills ac
 | **Salesforce Trailblazer** | <a href="https://www.salesforce.com/trailblazer/virajbhutada" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Salesforce.com_logo.svg/1280px-Salesforce.com_logo.svg.png" alt="Salesforce Trailblazer" height="30" width="45" /></a> | Distinguished as a Salesforce Trailblazer for contributions to the community. Implemented and documented innovative solutions using Salesforce, contributing to the platform's ecosystem growth.  |
 | **Microsoft Learn**     | <a href="https://learn.microsoft.com/en-us/users/virajbhutada-6329/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Microsoft_logo.svg/768px-Microsoft_logo.svg.png?20210729021049" alt="Microsoft Learn" height="30" width="35" /></a>   | Engaged proactively with Microsoft Learn to acquire and showcase Microsoft-related skills. Completed practical projects and assessments to validate knowledge in various Microsoft technologies.  |
 
-Feel free to explore each badge to learn more about my journey and expertise in different domains.
+
 
 ---
 
