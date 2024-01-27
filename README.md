@@ -53,7 +53,7 @@ Let's connect! Explore my data projects and collaborate on innovative endeavors 
 
 ---
 
-# 🚀 Developer Profile
+# 👨‍💻 Developer Profile
 
 Explore my comprehensive developer profile showcasing achievements and skills across diverse platforms.
 
