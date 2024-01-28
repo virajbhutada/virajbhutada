@@ -1,4 +1,6 @@
-# Hello there! <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving Hand" width="40"/>  I'm Viraj Bhutada!     ![Profile views](https://komarev.com/ghpvc/?username=virajbhutada&label=Profile+Views&color=blue)
+# [Hello there! I'm Viraj Bhutada](https://www.linkedin.com/in/virajnbhutada24/)    
+
+ ![Profile views](https://komarev.com/ghpvc/?username=virajbhutada&label=Profile+Views&color=blue)
 
 
 
