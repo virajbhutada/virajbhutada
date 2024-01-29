@@ -112,13 +112,6 @@ Explore my comprehensive developer profile showcasing achievements and skills ac
 <a href="https://d3js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/></a>
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a>
 <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> </p>
-</p> 
-
-</p>
-
-</p>
-
-</p>
 
 
 
@@ -161,10 +154,3 @@ Thank you for exploring my data-driven journey. I'm always open to collaboration
 Feel free to reach out for any data-related projects, or research opportunities, or simply to discuss the fascinating intersection of curiosity and analytics. Together, we can unravel hidden stories within the numbers and drive informed decision-making.
 
 Happy coding, and I look forward to the exciting possibilities our collaboration may unfold!
-
----
-
-####  Random Dev Meme
-
-
-![Alt Text](https://camo.githubusercontent.com/c4fd0a47e2aef618e1a2519250d504c4de4e70ca5894172e8e72abd0cf496e23/68747470733a2f2f72616e646f6d6d656d652d666976652e76657263656c2e6170702f)
