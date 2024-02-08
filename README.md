@@ -26,7 +26,7 @@ I am a dedicated data enthusiast and aspiring data scientist, committed to extra
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/virajnbhutada24/)](https://www.linkedin.com/in/virajnbhutada24/)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail&logoColor=white&link=mailto:virajnbhutada24@gmail.com)](mailto:virajnbhutada24@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/VirajBhutada24)](https://twitter.com/VirajBhutada24)
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=flat&logo=youtube&logoColor=white&link=https://www.youtube.com/c/virajnbhutada24)](https://www.youtube.com/c/virajnbhutada24)
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=flat&logo=youtube&logoColor=white&link=https://www.youtube.com/c/virajnbhutada24)](https://www.youtube.com/@virajnbhutada24)
 
 ---
 
