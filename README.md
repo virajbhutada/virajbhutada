@@ -23,19 +23,16 @@ I am a dedicated data enthusiast and aspiring data scientist, committed to extra
 
 ### Contact Details
 
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/virajnbhutada24/)](https://www.linkedin.com/in/virajnbhutada24/)   [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail&logoColor=white&link=mailto:virajnbhutada24@gmail.com)](mailto:virajnbhutada24@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/VirajBhutada24)](https://twitter.com/VirajBhutada24)
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/virajnbhutada24)](https://www.youtube.com/c/virajnbhutada24)
-
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/virajnbhutada24/)](https://www.linkedin.com/in/virajnbhutada24/)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail&logoColor=white&link=mailto:virajnbhutada24@gmail.com)](mailto:virajnbhutada24@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/VirajBhutada24)](https://twitter.com/VirajBhutada24)
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=flat&logo=youtube&logoColor=white&link=https://www.youtube.com/c/virajnbhutada24)](https://www.youtube.com/c/virajnbhutada24)
 
 ---
 
 ## Portfolio Highlights
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-lavender?style=for-the-badge&logoColor=white&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIj4KICA8Y2lyY2xlIGN4PSI1MCIgY3k9IjUwIiByPSI1MCIgc3R5bGU9ImZpbGw6cmVkOyIgLz4KPC9zdmc+Cg==)](https://sites.google.com/view/virajnbhutada24/home)
-
 
 Had the opportunity to work on various projects that showcase my skills in Data Science and Machine Learning. Here are key highlights:
 
