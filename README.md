@@ -34,7 +34,12 @@ I am a dedicated data enthusiast and aspiring data scientist, committed to extra
 
 ## Portfolio Highlights
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-lavender?style=for-the-badge&logoColor=white&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIj4KICA8Y2lyY2xlIGN4PSI1MCIgY3k9IjUwIiByPSI1MCIgc3R5bGU9ImZpbGw6cmVkOyIgLz4KPC9zdmc+Cg==)](https://sites.google.com/view/virajnbhutada24/home)
+<p align="center">
+  <a href="https://sites.google.com/view/virajnbhutada24/home">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-lavender?style=for-the-badge&logoColor=white&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIj4KICA8Y2lyY2xlIGN4PSI1MCIgY3k9IjUwIiByPSI1MCIgc3R5bGU9ImZpbGw6cmVkOyIgLz4KPC9zdmc+Cg==" alt="Portfolio">
+  </a>
+</p>
+
 
 Had the opportunity to work on various projects that showcase my skills in Data Science and Machine Learning. Here are key highlights:
 
