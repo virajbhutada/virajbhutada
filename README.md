@@ -54,7 +54,7 @@ Let's connect! Explore my data projects and collaborate on innovative endeavors 
 
 ---
 
-## 💼 Developer Profile
+## 💻 Developer Profile
 
 <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Developer Profile" style="width: 320px; height: auto;">
 
