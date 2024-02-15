@@ -21,7 +21,9 @@ I am a dedicated data enthusiast and aspiring data scientist, committed to extra
 
 ---
 
-### Contact Details
+<h3> Connect with me<a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="50px"></a>
+</h3> 
+<p align="left">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/virajnbhutada24/)](https://www.linkedin.com/in/virajnbhutada24/)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail&logoColor=white&link=mailto:virajnbhutada24@gmail.com)](mailto:virajnbhutada24@gmail.com)
@@ -52,7 +54,11 @@ Let's connect! Explore my data projects and collaborate on innovative endeavors 
 
 ---
 
-# 👨‍💻Developer Profile
+## 💼 Developer Profile
+
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Developer Profile" style="width: 320px; height: auto;">
+
+
 
 Explore my comprehensive developer profile showcasing achievements and skills across diverse platforms.
 
@@ -82,7 +88,7 @@ Explore my comprehensive developer profile showcasing achievements and skills ac
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools: <a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Neo.gif" width="40px"></a></h3>
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer" style="text-decoration: none; outline: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer" style="text-decoration: none; outline: none;"><img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="40" height="40"/></a>
