@@ -132,13 +132,23 @@ Explore my comprehensive developer profile showcasing achievements and skills ac
 
 # 📊 GitHub Stats
 
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=virajbhutada&show_icons=true&theme=radical&exclude_repo=repo1,repo2,repo3)](https://github.com/virajbhutada) [![GitHub Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=virajbhutada&background=DEG,COLOR1,COLOR2,COLOR3,COLOR4,COLOR5,COLOR6,COLOR7&theme=radical)](https://github.com/virajbhutada)
-
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=virajbhutada&show_icons=true&theme=radical&exclude_repo=repo1,repo2,repo3)](https://github.com/virajbhutada) [![GitHub Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=virajbhutada&background=DEG,COLOR1,COLOR2,COLOR3,COLOR4,COLOR5,COLOR6,COLOR7&theme=radical)](https://github.com/virajbhutada)![](https://github-readme-stats.vercel.app/api/top-langs/?username=virajbhutada&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact) 
 
 ### 🔝 Top Contributed Repo
 
-[![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=virajbhutada&limit=5&background=DEG,COLOR1,COLOR2,COLOR3,COLOR4,COLOR5,COLOR6,COLOR7&theme=tokyonight&combine_all_yearly_contributions=true)](https://github.com/virajbhutada)
+[![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=virajbhutada&limit=5&theme=radical&background=DEG,COLOR1,COLOR2,COLOR3,COLOR4,COLOR5,COLOR6,COLOR7&combine_all_yearly_contributions=true)](https://github.com/virajbhutada)
 
+
+### 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=virajbhutada&theme=discord&no-frame=false&no-bg=true&margin-w=4)
+
+
+
+---
+
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 
