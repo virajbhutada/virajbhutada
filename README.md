@@ -2,11 +2,6 @@
   <h1>
     <a href="https://www.linkedin.com/in/virajnbhutada24/" style="text-decoration: none; color: #0077B5;">Hello there! I'm Viraj Bhutada</a>
   </h1>
-  <p>
-    <a href="https://komarev.com/ghpvc/?username=virajbhutada&label=Profile+Views&color=blue">
-      <img src="https://komarev.com/ghpvc/?username=virajbhutada&label=Profile+Views&color=blue" alt="Profile Views">
-    </a>
-  </p>
 </div>
 
 
@@ -137,7 +132,14 @@ Explore my comprehensive developer profile showcasing achievements and skills ac
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Stats       
+<div align="center">
+  <p>
+    <a href="https://komarev.com/ghpvc/?username=virajbhutada&label=Profile+Views&color=blue">
+      <img src="https://komarev.com/ghpvc/?username=virajbhutada&label=Profile+Views&color=blue" alt="Profile Views">
+    </a>
+  </p>
+  </div>
 
 [![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=virajbhutada&show_icons=true&theme=radical&exclude_repo=repo1,repo2,repo3)](https://github.com/virajbhutada) [![GitHub Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=virajbhutada&background=DEG,COLOR1,COLOR2,COLOR3,COLOR4,COLOR5,COLOR6,COLOR7&theme=radical)](https://github.com/virajbhutada)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=virajbhutada&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact) 
@@ -169,3 +171,11 @@ Thank you for exploring my data-driven journey. I'm always open to collaboration
 Feel free to reach out for any data-related projects, or research opportunities, or simply to discuss the fascinating intersection of curiosity and analytics. Together, we can unravel hidden stories within the numbers and drive informed decision-making.
 
 Happy coding, and I look forward to the exciting possibilities our collaboration may unfold!
+
+  <div align="center">
+  <p>
+    <a href="https://komarev.com/ghpvc/?username=virajbhutada&label=Profile+Views&color=blue">
+      <img src="https://komarev.com/ghpvc/?username=virajbhutada&label=Profile+Views&color=blue" alt="Profile Views">
+    </a>
+  </p>
+  </div>
