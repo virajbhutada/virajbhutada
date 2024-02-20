@@ -5,9 +5,8 @@
 </div>
 
 
-Deeply passionate about data and aspire to become a proficient data scientist. My goal is to uncover meaningful insights from complex datasets, utilizing my sharp analytical skills and relentless dedication to learning. With a meticulous eye for detail, I thrive on discovering patterns and trends that drive informed decision-making. I'm committed to continuous growth and seek to contribute positively to the field of data science.
+Passionate about data and aspiring data scientist. Goal: uncover meaningful insights from complex datasets, utilizing sharp analytical skills and dedication to learning. Thrive on discovering patterns and trends for informed decision-making. Committed to continuous growth and positive contributions to data science.
 
-Deeply passionate about data and aspire to become a proficient data scientist. My goal is to uncover meaningful insights from complex datasets, using sharp analytical skills and a relentless dedication to learning. With a meticulous eye for detail, I thrive on discovering patterns and trends that drive informed decision-making. Committed to continuous growth, I aim to positively contribute to the field of data science.
 
 ### Skills and Expertise
 
