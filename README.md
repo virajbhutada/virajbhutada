@@ -21,18 +21,19 @@ I am a dedicated data enthusiast and aspiring data scientist, committed to extra
 
 ---
 
-<h3> Connect with me<a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="50px"></a>
-</h3> 
-<p align="left">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/virajnbhutada24/)](https://www.linkedin.com/in/virajnbhutada24/)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail&logoColor=white&link=mailto:virajnbhutada24@gmail.com)](mailto:virajnbhutada24@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/VirajBhutada24)](https://twitter.com/VirajBhutada24)
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=flat&logo=youtube&logoColor=white&link=https://www.youtube.com/c/virajnbhutada24)](https://www.youtube.com/@virajnbhutada24)
+<div align="center">
+    <h3>Connect with me <a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="50px"></a></h3>
+    <p align="center">
+        <a href="https://www.linkedin.com/in/virajnbhutada24/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/virajnbhutada24/" alt="LinkedIn"></a>
+        <a href="mailto:virajnbhutada24@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail&logoColor=white&link=mailto:virajnbhutada24@gmail.com" alt="Email"></a>
+        <a href="https://twitter.com/VirajBhutada24"><img src="https://img.shields.io/badge/Twitter-Follow-blue?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/VirajBhutada24" alt="Twitter"></a>
+        <a href="https://www.youtube.com/@virajnbhutada24"><img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=flat&logo=youtube&logoColor=white&link=https://www.youtube.com/c/virajnbhutada24" alt="YouTube"></a>
+    </p>
+</div>
 
 ---
 
-## Portfolio Highlights
+
 
 <p align="center">
   <a href="https://sites.google.com/view/virajnbhutada24/home">
