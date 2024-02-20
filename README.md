@@ -23,13 +23,13 @@ I am a dedicated data enthusiast and aspiring data scientist, committed to extra
 ---
 
 <div align="center">
-    <h3>Connect with me <a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="50px"></a></h3>
+    <h3 style="font-size: 40px;"><strong>Connect with me <a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="50px"></a></strong></h3>
     <p align="center">
-        <a href="https://www.linkedin.com/in/virajnbhutada24/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/virajnbhutada24/" alt="LinkedIn"></a>
-        <a href="mailto:virajnbhutada24@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail&logoColor=white&link=mailto:virajnbhutada24@gmail.com" alt="Email"></a>
-        <a href="https://twitter.com/VirajBhutada24"><img src="https://img.shields.io/badge/Twitter-Follow-blue?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/VirajBhutada24" alt="Twitter"></a>
-        <a href="https://www.youtube.com/@virajnbhutada24"><img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=flat&logo=youtube&logoColor=white&link=https://www.youtube.com/c/virajnbhutada24" alt="YouTube"></a>
-        <a href="https://sites.google.com/view/virajnbhutada24/home"><img src="https://img.shields.io/badge/Portfolio-Visit-lavender?style=flat&logoColor=white&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIj4KICA8Y2lyY2xlIGN4PSI1MCIgY3k9IjUwIiByPSI1MCIgc3R5bGU9ImZpbGw6cmVkOyIgLz4KPC9zdmc+Cg==" alt="Portfolio" height="22"></a>
+        <a href="https://www.linkedin.com/in/virajnbhutada24/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/virajnbhutada24/" alt="LinkedIn" height="25" style="border-radius: 5px;"></a>
+        <a href="mailto:virajnbhutada24@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail&logoColor=white&link=mailto:virajnbhutada24@gmail.com" alt="Email" height="25" style="border-radius: 5px;"></a>
+        <a href="https://twitter.com/VirajBhutada24"><img src="https://img.shields.io/badge/Twitter-Follow-blue?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/VirajBhutada24" alt="Twitter" height="25" style="border-radius: 5px;"></a>
+        <a href="https://www.youtube.com/@virajnbhutada24"><img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=flat&logo=youtube&logoColor=white&link=https://www.youtube.com/c/virajnbhutada24" alt="YouTube" height="25" style="border-radius: 5px;"></a>
+        <a href="https://sites.google.com/view/virajnbhutada24/home"><img src="https://img.shields.io/badge/Portfolio-Visit-lavender?style=flat&logoColor=white&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIj4KICA8Y2lyY2xlIGN4PSI1MCIgY3k9IjUwIiByPSI1MCIgc3R5bGU9ImZpbGw6cmVkOyIgLz4KPC9zdmc+Cg==" alt="Portfolio" height="25" style="border-radius: 5px;"></a>
     </p>
 </div>
 
