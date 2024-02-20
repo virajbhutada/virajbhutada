@@ -4,8 +4,7 @@
   </h1>
 </div>
 
-
-Passionate about data and aspiring data scientist. Goal: uncover meaningful insights from complex datasets, utilizing sharp analytical skills and dedication to learning. Thrive on discovering patterns and trends for informed decision-making. Committed to continuous growth and positive contributions to data science.
+Dedicated data enthusiast and aspiring data scientist. Goal: uncover meaningful insights from complex datasets, utilizing sharp analytical skills and dedication to learning. Thrive on discovering patterns and trends for informed decision-making. Committed to continuous growth and positive contributions to data science.
 
 
 ### Skills and Expertise
