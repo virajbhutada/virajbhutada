@@ -1,7 +1,13 @@
-# [Hello there! I'm Viraj Bhutada](https://www.linkedin.com/in/virajnbhutada24/)    
-
- ![Profile views](https://komarev.com/ghpvc/?username=virajbhutada&label=Profile+Views&color=blue)
-
+<div align="center">
+  <h1>
+    <a href="https://www.linkedin.com/in/virajnbhutada24/" style="text-decoration: none; color: #0077B5;">Hello there! I'm Viraj Bhutada</a>
+  </h1>
+  <p>
+    <a href="https://komarev.com/ghpvc/?username=virajbhutada&label=Profile+Views&color=blue">
+      <img src="https://komarev.com/ghpvc/?username=virajbhutada&label=Profile+Views&color=blue" alt="Profile Views">
+    </a>
+  </p>
+</div>
 
 
 I am a dedicated data enthusiast and aspiring data scientist, committed to extracting meaningful insights from the vast realm of data. With a keen eye for uncovering patterns and trends, I bring a unique blend of analytical skills and an unwavering commitment to knowledge advancement.  
