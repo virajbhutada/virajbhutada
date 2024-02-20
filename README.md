@@ -1,8 +1,5 @@
-<div align="center">
-  <h1>
-    <a href="https://www.linkedin.com/in/virajnbhutada24/" style="text-decoration: none; color: #0077B5;">Hello there! <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving Hand" width="40"/> I'm Viraj Bhutada</a>
-  </h1>
-</div>
+<div align="center"><h1><a href="https://www.linkedin.com/in/virajnbhutada24/" style="text-decoration: none; color: #0077B5;">Hello there!
+<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving Hand" width="40"/> I'm Viraj Bhutada</a></h1></div>
 
 Dedicated data enthusiast and aspiring data scientist. Goal: uncover meaningful insights from complex datasets, utilizing sharp analytical skills and dedication to learning. Thrive on discovering patterns and trends for informed decision-making. Committed to continuous growth and positive contributions to data science.
 
