@@ -1,6 +1,6 @@
 <div align="center">
   <h1>
-    <a href="https://www.linkedin.com/in/virajnbhutada24/" style="text-decoration: none; color: #0077B5;">Hello there! I'm Viraj Bhutada</a>
+    <a href="https://www.linkedin.com/in/virajnbhutada24/" style="text-decoration: none; color: #0077B5;">Hello there! <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving Hand" width="40"/> I'm Viraj Bhutada</a>
   </h1>
 </div>
 
