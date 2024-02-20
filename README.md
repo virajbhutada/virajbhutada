@@ -23,7 +23,6 @@ I am a dedicated data enthusiast and aspiring data scientist, committed to extra
 ---
 
 <div align="center">
-    <h3 style="font-size: 40px;"><strong>Connect with me <a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="50px"></a></strong></h3>
     <p align="center">
         <a href="https://www.linkedin.com/in/virajnbhutada24/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/virajnbhutada24/" alt="LinkedIn" height="25" style="border-radius: 5px;"></a>
         <a href="mailto:virajnbhutada24@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail&logoColor=white&link=mailto:virajnbhutada24@gmail.com" alt="Email" height="25" style="border-radius: 5px;"></a>
