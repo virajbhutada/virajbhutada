@@ -28,35 +28,24 @@ I am a dedicated data enthusiast and aspiring data scientist, committed to extra
         <a href="mailto:virajnbhutada24@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail&logoColor=white&link=mailto:virajnbhutada24@gmail.com" alt="Email"></a>
         <a href="https://twitter.com/VirajBhutada24"><img src="https://img.shields.io/badge/Twitter-Follow-blue?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/VirajBhutada24" alt="Twitter"></a>
         <a href="https://www.youtube.com/@virajnbhutada24"><img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=flat&logo=youtube&logoColor=white&link=https://www.youtube.com/c/virajnbhutada24" alt="YouTube"></a>
+        <a href="https://sites.google.com/view/virajnbhutada24/home"><img src="https://img.shields.io/badge/Portfolio-Visit-lavender?style=flat&logoColor=white&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIj4KICA8Y2lyY2xlIGN4PSI1MCIgY3k9IjUwIiByPSI1MCIgc3R5bGU9ImZpbGw6cmVkOyIgLz4KPC9zdmc+Cg==" alt="Portfolio" height="22"></a>
     </p>
 </div>
 
 ---
 
+## Project Highlights
 
+- **Predictive Modeling:** Developed various predictive models, demonstrating proficiency in regression, classification, and clustering algorithms.
 
-<p align="center">
-  <a href="https://sites.google.com/view/virajnbhutada24/home">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-lavender?style=for-the-badge&logoColor=white&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIj4KICA8Y2lyY2xlIGN4PSI1MCIgY3k9IjUwIiByPSI1MCIgc3R5bGU9ImZpbGw6cmVkOyIgLz4KPC9zdmc+Cg==" alt="Portfolio">
-  </a>
-</p>
+- **Data Visualization:** Created compelling visualizations using tools like Tableau, Power BI and Looker to effectively communicate complex insights.
 
+- **Problem-Solving Skills:** Showcased expertise through active participation in coding challenges and competitions, fostering algorithmic thinking and problem-solving abilities.
 
-Had the opportunity to work on various projects that showcase my skills in Data Science and Machine Learning. Here are key highlights:
+- **Version Control Management:** Utilized Git for efficient code management and collaboration, ensuring smooth project workflows and seamless collaboration.
 
-- **Predictive Modeling:** Implemented predictive models for various datasets, showcasing my proficiency in regression, classification, and clustering algorithms.
+- **Community Engagement:** Engaged with the data science community through discussions, collaborations, and knowledge-sharing, contributing to a collaborative and vibrant environment.
 
-- **Data Visualization:**
-  - **Tableau:** Created interactive and insightful visualizations using Tableau, bringing data to life and making it accessible to a wider audience.
-  - **Power BI:** Developed compelling data visualizations and dashboards in Power BI to communicate complex insights and support data-driven decision-making.
-  - **Microsoft Excel:** Utilized advanced Excel functionalities to design visually appealing and informative charts, graphs, and reports.
-  - **Google Looker Studio:** Produced engaging and effective visualizations in Google Looker Studio, enhancing data understanding and facilitating informed decision-making.
-    
-- **Coding Challenges:** Participated in coding challenges and competitions to enhance problem-solving skills and algorithmic thinking.                                           
-- **Version Control:** Utilized Git for version control, managing code repositories and collaborative projects.                                                                   
-- **Collaboration and Networking:** Actively engaging in the data science community, participating in discussions, and collaborating on exciting projects. 
-
-Let's connect! Explore my data projects and collaborate on innovative endeavors in data science.
 
 ---
 
