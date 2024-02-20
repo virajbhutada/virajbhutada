@@ -171,11 +171,3 @@ Thank you for exploring my data-driven journey. I'm always open to collaboration
 Feel free to reach out for any data-related projects, or research opportunities, or simply to discuss the fascinating intersection of curiosity and analytics. Together, we can unravel hidden stories within the numbers and drive informed decision-making.
 
 Happy coding, and I look forward to the exciting possibilities our collaboration may unfold!
-
-  <div align="center">
-  <p>
-    <a href="https://komarev.com/ghpvc/?username=virajbhutada&label=Profile+Views&color=blue">
-      <img src="https://komarev.com/ghpvc/?username=virajbhutada&label=Profile+Views&color=blue" alt="Profile Views">
-    </a>
-  </p>
-  </div>
