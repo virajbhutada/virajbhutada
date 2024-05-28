@@ -1,5 +1,6 @@
 
-![1](https://github.com/virajbhutada/US-Healthcare-Analytics-PowerBI-Insights/assets/143819712/bc93e6c8-9e5d-4c30-b03b-8392e7b3771c)
+![1](https://github.com/virajbhutada/Tableau-DataVizzes/assets/143819712/08818058-59b2-4230-83b5-c4ac49c0ac44)
+
 
 Dedicated data enthusiast and aspiring data scientist. Goal: uncover meaningful insights from complex datasets, utilizing sharp analytical skills and dedication to learning. Thrive on discovering patterns and trends for informed decision-making. Committed to continuous growth and positive contributions to data science.
 
