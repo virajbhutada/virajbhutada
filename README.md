@@ -86,49 +86,34 @@ Explore my comprehensive developer profile showcasing achievements and skills ac
 
 <h3 align="left">Languages and Tools <a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Neo.gif" width="40px"></a></h3>
 <p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer" style="text-decoration: none; outline: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer" style="text-decoration: none; outline: none;"><img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="40" height="40"/></a>
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer" style="text-decoration: none; outline: none;"><img src="https://img.icons8.com/color/48/000000/ms-excel.png" alt="Excel" width="40" height="40"/></a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer" style="text-decoration: none; outline: none;"><img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" alt="SQL" width="40" height="40"/></a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer" style="text-decoration: none; outline: none;"><img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="text-decoration: none; outline: none;"><img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="40" height="40"/></a>
-  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer" style="text-decoration: none; outline: none;"><img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau" width="40" height="40"/></a>
-  <a href="https://www.openai.com/" target="_blank" rel="noreferrer" style="text-decoration: none; outline: none;"><img src="https://img.icons8.com/color/48/000000/chat.png" alt="ChatGPT" width="40" height="40"/
-</a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="40" height="40"/></a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/ms-excel.png" alt="Excel" width="40" height="40"/></a>
+  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/oracle-original.svg" alt="Oracle" width="40" height="40"/>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" alt="SQL" width="40" height="40"/></a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL" width="40" height="40"/></a>
+  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" alt="Css" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/pytorch-icon.svg" alt="Pytorch" width="40" height="40"/>
+  <img src="https://dl.dropboxusercontent.com/s/6e7hk06wzjp3j52/Matlab_Logo.png" alt="MatLab" width="40" height="40"/>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="40" height="40"/></a>
+  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau" width="40" height="40"/></a>
+  <a href="https://www.openai.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/chat.png" alt="ChatGPT" width="40" height="40"/></a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/pandas.png" alt="Pandas" width="40" height="40"/></a>
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/numpy.png" alt="NumPy" width="40" height="40"/></a>
+  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow" width="40" height="40"/></a>
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/></a>
+  <a href="https://plotly.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/plot_ly/plot_ly-icon.svg" alt="plotly" width="40" height="40"/></a>
+  <a href="https://d3js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/></a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a>
+  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/></a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40" height="40"/></a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" width="40" height="40"/></a>
+  <a href="https://gitlab.com/virajbhutada" target="_blank" rel="noopener noreferrer"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVpB0GPEKD9ncH25z06w-IJ1tME6D7jCSPzcgT2pCNjA&s" alt="GitLab" width="40" height="40"/></a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer"><img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" height="40"/></a>
+  <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/google-colab.png" alt="Google Colab" width="40" height="40"/></a>
+  <a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="jupyter" width="40" height="40"/></a>
 </p>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer" style="text-decoration: none; outline: none;"><img src="https://img.icons8.com/color/48/000000/pandas.png" alt="Pandas" width="40" height="40"/></a>
-<a href="https://numpy.org/" target="_blank" rel="noreferrer" style="text-decoration: none; outline: none;"><img src="https://img.icons8.com/color/48/000000/numpy.png" alt="NumPy" width="40" height="40"/></a>
-<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer" style="text-decoration: none; outline: none;"><img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow" width="40" height="40"/></a>
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/></a>
-<a href="https://plotly.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/plot_ly/plot_ly-icon.svg" alt="plotly" width="40" height="40"/></a>
-<a href="https://d3js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/></a>
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a>
-<a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> </p>
-
-
-
-
----
-
-<h3 align="left">Version Control:</h3>
-<p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="text-decoration: none; outline: none; border: none;"><img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40" height="40"/></a>
-<a href="https://github.com/" target="_blank" rel="noreferrer" style="text-decoration: none; outline: none; border: none;"><img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" width="40" height="40"/></a>
-<a href="https://gitlab.com/virajbhutada" target="_blank" rel="noopener noreferrer" style="border: none;"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVpB0GPEKD9ncH25z06w-IJ1tME6D7jCSPzcgT2pCNjA&s" alt="GitLab" width="40" height="40"/></a>
-</p>
-
-
----
-
-<h3 align="left">IDE:</h3>
-<p align="left">
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer"><img                                                                    src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" height="40"/></a>
-  <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer" style="text-decoration: none; outline: none;"><img src="https://img.icons8.com/color/48/000000/google-colab.png" alt="Google Colab" width="40" height="40"/></a>
-  <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="jupyter" width="40" height="40"/>
-</a>
-</p>
-
 
 ---
 
@@ -142,22 +127,26 @@ Explore my comprehensive developer profile showcasing achievements and skills ac
   </div>
 
 [![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=virajbhutada&show_icons=true&theme=radical&exclude_repo=repo1,repo2,repo3)](https://github.com/virajbhutada) [![GitHub Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=virajbhutada&background=DEG,COLOR1,COLOR2,COLOR3,COLOR4,COLOR5,COLOR6,COLOR7&theme=radical)](https://github.com/virajbhutada)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=virajbhutada&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact) [![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=virajbhutada&limit=5&theme=radical&background=DEG,COLOR1,COLOR2,COLOR3,COLOR4,COLOR5,COLOR6,COLOR7&combine_all_yearly_contributions=true)](https://github.com/virajbhutada)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=virajbhutada&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+### 🔝 Top Contributed Repo
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-<h3 align="center">Statistics</h3>
+[![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=virajbhutada&limit=5&theme=radical&background=DEG,COLOR1,COLOR2,COLOR3,COLOR4,COLOR5,COLOR6,COLOR7&combine_all_yearly_contributions=true)](https://github.com/virajbhutada)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center" style="background: linear-gradient(to right, #ff7e5f, #feb47b); padding: 20px; border-radius: 10px;">
-<a href="https://github.com/virajbhutada">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=virajbhutada&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=virajbhutada&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=virajbhutada&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=virajbhutada&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=virajbhutada&theme=2077" height="180em" />
+  <a href="https://github.com/virajbhutada">
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=virajbhutada&theme=github_dark" height="180em" />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=virajbhutada&theme=github_dark" height="180em" />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=virajbhutada&theme=github_dark" height="180em" />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=virajbhutada&theme=github_dark" height="180em" />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=virajbhutada&theme=github_dark" height="180em" />
+  </a>
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 <h3 align="left">⚡ Activity Graph </h3>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=virajbhutada&theme=synthwave-84" style="border-radius: 10px;" />
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=virajbhutada&theme=synthwave-84" style="border-radius: 10px; background: linear-gradient(to bottom right, #8A2387, #E94057, #F27121); padding: 20px;" />
+
 
 
 ### 🏆 GitHub Trophies
