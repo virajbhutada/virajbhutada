@@ -146,8 +146,11 @@ Explore my comprehensive developer profile showcasing achievements and skills ac
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=virajbhutada&theme=github_dark" height="180em" />
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 <h3 align="left">⚡ Activity Graph </h3>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=virajbhutada&theme=synthwave-84" style="border-radius: 10px;" />
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=virajbhutada&bg_color=0d1117&color=00ff00&line=00ff00&point=ffffff&area=333333&hide_border=true" style="border-radius: 10px">
+
+
 
 
 ### 🏆 GitHub Trophies
