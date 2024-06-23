@@ -136,7 +136,7 @@ Explore my comprehensive developer profile showcasing achievements and skills ac
 [![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=virajbhutada&limit=5&theme=radical&background=DEG,COLOR1,COLOR2,COLOR3,COLOR4,COLOR5,COLOR6,COLOR7&combine_all_yearly_contributions=true)](https://github.com/virajbhutada)
 
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="center">Statistics</h2>
 <div align="center" style="background: linear-gradient(to right, #ff7e5f, #feb47b); padding: 20px; border-radius: 10px;">
 <a href="https://github.com/virajbhutada">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=virajbhutada&theme=github_dark" height="180em" />
@@ -147,11 +147,11 @@ Explore my comprehensive developer profile showcasing achievements and skills ac
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<h3 align="left">⚡ Activity Graph </h3>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=virajbhutada&bg_color=0d1117&color=00ff00&line=00ff00&point=ffffff&area=333333&hide_border=true" style="border-radius: 10px">
+
+<h2 align="left">⚡ Activity Graph </h2>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=virajbhutada&bg_color=0d1117&color=7df9ff&line=7df9ff&point=ffffff&area=333333&hide_border=true" style="border-radius: 10px">
 
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=virajbhutada&theme=discord&no-frame=false&no-bg=true&margin-w=4)
