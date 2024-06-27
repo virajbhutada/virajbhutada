@@ -1,4 +1,5 @@
 
+
 ![1](https://github.com/virajbhutada/Tableau-DataVizzes/assets/143819712/08818058-59b2-4230-83b5-c4ac49c0ac44)
 
 ## About Me
@@ -105,6 +106,7 @@ Explore my comprehensive developer profile showcasing achievements and skills ac
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/></a>
   <a href="https://plotly.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/plot_ly/plot_ly-icon.svg" alt="plotly" width="40" height="40"/></a>
   <a href="https://d3js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/></a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a>
   <a href="https://cloud.google.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/></a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40" height="40"/></a>
