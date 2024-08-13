@@ -141,7 +141,7 @@ Explore my comprehensive developer profile showcasing achievements and skills ac
   <tr>
     <td>
       <a href="https://github.com/virajbhutada/github-readme-stats">
-          <img alt="Top Contributed Repo" src="https://github-contributor-stats.vercel.app/api?username=virajbhutada&limit=5&theme=radical&background=45deg,0D0D0D,434343,000000,434343,0D0D0D&combine_all_yearly_contributions=true" /> 
+          <img src = "https://github-contributor-stats.vercel.app/api?username=virajbhutada&limit=10&theme=radical&combine_all_yearly_contributions=true"/> 
       </a>
     </td>
     <td>
