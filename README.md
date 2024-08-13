@@ -119,34 +119,19 @@ Explore my comprehensive developer profile showcasing achievements and skills ac
 ---
 
 ## 📊 GitHub Stats       
-<div align="center">
-  <p>
-    <a href="https://komarev.com/ghpvc/?username=virajbhutada&label=Profile+Views&color=blue">
-      <img src="https://komarev.com/ghpvc/?username=virajbhutada&label=Profile+Views&color=blue" alt="Profile Views">
-    </a>
-  </p>
-  </div>
-
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=virajbhutada&show_icons=true&theme=radical&exclude_repo=repo1,repo2,repo3)](https://github.com/virajbhutada)[![GitHub Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=virajbhutada&background=DEG,COLOR1,COLOR2,COLOR3,COLOR4,COLOR5,COLOR6,COLOR7&theme=radical)]
-
-
-<a href="https://github.com/virajbhutada/github-readme-stats"><img alt="Viraj's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=virajbhutada&langs_count=20&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=000000" /></a>
 
 
 
-
- <a href="https://github.com/virajbhutada/github-readme-stats">
-        <img alt="Viraj's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=virajbhutada&langs_count=20&count_private=true&layout=compact&theme=radical&hide_border=true&bg_color=45deg,0D0D0D,434343,000000,434343,0D0D0D" />
-    </a>
-</div>
-
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=virajbhutada&show_icons=true&theme=radical&exclude_repo=repo1,repo2,repo3)](https://github.com/virajbhutada)
+[![GitHub Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=virajbhutada&background=45deg,0D0D0D,434343,000000,434343,0D0D0D&theme=radical)](https://github.com/virajbhutada)
+[![Viraj's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=virajbhutada&langs_count=20&count_private=true&layout=compact&theme=radical&hide_border=true&bg_color=000000)](https://github.com/virajbhutada/github-readme-stats)
+[![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=virajbhutada&limit=5&theme=radical&background=45deg,0D0D0D,434343,000000,434343,0D0D0D&combine_all_yearly_contributions=true)](https://github.com/virajbhutada)
 
 
 
+---
 
-### 🔝 Top Contributed Repo
 
-[![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=virajbhutada&limit=5&theme=radical&background=DEG,COLOR1,COLOR2,COLOR3,COLOR4,COLOR5,COLOR6,COLOR7&combine_all_yearly_contributions=true)](https://github.com/virajbhutada)
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="center">Statistics</h2>
