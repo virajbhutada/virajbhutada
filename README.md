@@ -122,13 +122,9 @@ Explore my comprehensive developer profile showcasing achievements and skills ac
 
 
 
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=virajbhutada&show_icons=true&theme=radical&exclude_repo=repo1,repo2,repo3)](https://github.com/virajbhutada)
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=virajbhutada&show_icons=true&theme=radical&exclude_repo=repo1,repo2,repo3)](https://github.com/virajbhutada) [![GitHub Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=virajbhutada&background=45deg,0D0D0D,434343,000000,434343,0D0D0D&theme=radical)](https://github.com/virajbhutada)[![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=virajbhutada&limit=5&theme=radical&background=45deg,0D0D0D,434343,000000,434343,0D0D0D&combine_all_yearly_contributions=true)](https://github.com/virajbhutada) [![Viraj's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=virajbhutada&langs_count=20&count_private=true&layout=compact&theme=radical&hide_border=true&bg_color=000000)](https://github.com/virajbhutada/github-readme-stats)
 
-[![GitHub Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=virajbhutada&background=45deg,0D0D0D,434343,000000,434343,0D0D0D&theme=radical)](https://github.com/virajbhutada)
 
-[![Viraj's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=virajbhutada&langs_count=20&count_private=true&layout=compact&theme=radical&hide_border=true&bg_color=000000)](https://github.com/virajbhutada/github-readme-stats)
-
-[![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=virajbhutada&limit=5&theme=radical&background=45deg,0D0D0D,434343,000000,434343,0D0D0D&combine_all_yearly_contributions=true)](https://github.com/virajbhutada)
 
 
 
@@ -148,12 +144,12 @@ Explore my comprehensive developer profile showcasing achievements and skills ac
   <tr>
     <td>
       <a href="https://github.com/virajbhutada/github-readme-stats">
-        <img alt="Viraj's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=virajbhutada&langs_count=20&count_private=true&layout=compact&theme=radical&hide_border=true&bg_color=000000" />
+          <img alt="Top Contributed Repo" src="https://github-contributor-stats.vercel.app/api?username=virajbhutada&limit=5&theme=radical&background=45deg,0D0D0D,434343,000000,434343,0D0D0D&combine_all_yearly_contributions=true" /> 
       </a>
     </td>
     <td>
       <a href="https://github.com/virajbhutada">
-        <img alt="Top Contributed Repo" src="https://github-contributor-stats.vercel.app/api?username=virajbhutada&limit=5&theme=radical&background=45deg,0D0D0D,434343,000000,434343,0D0D0D&combine_all_yearly_contributions=true" />
+        <img alt="Viraj's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=virajbhutada&langs_count=20&count_private=true&layout=compact&theme=radical&hide_border=true&bg_color=000000" />
       </a>
     </td>
   </tr>
