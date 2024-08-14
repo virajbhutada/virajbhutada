@@ -172,7 +172,7 @@ Passionate about exploring new techniques, staying current with industry advance
 
 
 
-###  GitHub Trophies 🏆
+##  GitHub Trophies 🏆
 ![](https://github-profile-trophy.vercel.app/?username=virajbhutada&theme=discord&no-frame=false&no-bg=true&margin-w=4)
 
 
@@ -180,7 +180,7 @@ Passionate about exploring new techniques, staying current with industry advance
 ---
 
 
-###  Random Dev Quote ✍️
+##  Random Dev Quote ✍️
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
@@ -192,3 +192,6 @@ Thank you for exploring my data journey. I’m enthusiastic about connecting wit
 Feel free to reach out for project collaborations, research discussions, or to explore new ideas in data science. Together, we can uncover new insights and drive innovation.
 
 Looking forward to potential collaborations and shared successes!
+
+
+
