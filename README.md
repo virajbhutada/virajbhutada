@@ -154,8 +154,8 @@ Explore my comprehensive developer profile showcasing achievements and skills ac
 </table>
 
 <p align='center'>
-  <img src="https://stats.quine.sh/virajbhutada/languages-over-time?theme=dark" height="400px" width="400px">
-  <img src="https://stats.quine.sh/virajbhutada/topics-over-time?theme=dark" height="400px" width="400px">
+  <img src="https://stats.quine.sh/virajbhutada/languages-over-time?theme=dark" height="300px" width="400px">
+  <img src="https://stats.quine.sh/virajbhutada/topics-over-time?theme=dark" height="300px" width="400px">
 </p>
 
 
