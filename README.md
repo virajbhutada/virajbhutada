@@ -48,14 +48,10 @@ Passionate about exploring new techniques, staying current with industry advance
 ---
 
 
-##  Developer Profile 💻
-
+##  Developer Profile 💻 
 <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Developer Profile" style="width: 320px; height: auto;">
 
-<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Developer Profile" style="width: 100%; height: auto;">
 
-
-<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Developer Profile" style="width: 100%;">
 
 
 | **Platform**           | **Profile**                                                                                    | **Description**                                                                                                                                                                      |
@@ -65,7 +61,7 @@ Passionate about exploring new techniques, staying current with industry advance
 | **HackerRank**         | <a href="https://www.hackerrank.com/profile/virajnbhutada24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/virajnbhutada24" height="55" width="50" /></a>     | Enhanced problem-solving skills and my algorithmic thinking through active participation in coding challenges and competitions on HackerRank. Analyzed and optimized algorithms for better time and space complexity.   |
 | **Google Cloud**       | <a href="https://www.cloudskillsboost.google/public_profiles/1fe01bf9-78f3-4e57-a935-c7486b6856e1" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="35" height="35"/></a>  | Acquired proficiency in Google Cloud technologies by completing hands-on projects and certifications. Applied cloud architecture principles to design scalable and resilient solutions.  |
 | **Salesforce Trailblazer** | <a href="https://www.salesforce.com/trailblazer/virajbhutada" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Salesforce.com_logo.svg/1280px-Salesforce.com_logo.svg.png" alt="Salesforce Trailblazer" height="30" width="45" /></a> | Distinguished as a Salesforce Trailblazer for contributions to the community. Implemented and documented innovative solutions using Salesforce, contributing to the platform's ecosystem growth.  |
-| **Microsoft Learn**     | <a href="https://learn.microsoft.com/en-us/users/virajbhutada-6329/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Microsoft_logo.svg/768px-Microsoft_logo.svg.png?20210729021049" alt="Microsoft Learn" height="30" width="35" /></a>   | Engaged proactively with Microsoft Learn to acquire and showcase Microsoft-related skills. Completed practical projects and assessments to validate knowledge in various Microsoft technologies.  |
+| **Microsoft Learn**     | <a href="https://learn.microsoft.com/en-us/users/virajbhutada-6329/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Microsoft_logo.svg/768px-Microsoft_logo.svg.png?20210729021049" alt="Microsoft Learn" height="30" width="35" /></a>   | Engaged proactively with Microsoft Learn to acquire and showcase Microsoft-related skills. Completed practical projects and assessments to validate knowledge in various Microsoft technologies. |
 
 
 ----
