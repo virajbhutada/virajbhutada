@@ -153,8 +153,7 @@ Explore my comprehensive developer profile showcasing achievements and skills ac
   </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
- <p align='center'>
+<p align='center'>
   <img src="https://stats.quine.sh/virajbhutada/languages-over-time?theme=dark" height="300px" width="400px">
   <img src="https://stats.quine.sh/virajbhutada/topics-over-time?theme=dark" height="300px" width="400px">
 </p>
