@@ -1,4 +1,5 @@
 
+ 
 ![1](https://github.com/virajbhutada/Tableau-DataVizzes/assets/143819712/08818058-59b2-4230-83b5-c4ac49c0ac44)
 
 ## About Me
@@ -152,6 +153,11 @@ Explore my comprehensive developer profile showcasing achievements and skills ac
   </tr>
 </table>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+ <p align='center'>
+  <img src="https://stats.quine.sh/virajbhutada/languages-over-time?theme=dark" height="300px" width="400px">
+  <img src="https://stats.quine.sh/virajbhutada/topics-over-time?theme=dark" height="300px" width="400px">
+</p>
 
 
 
