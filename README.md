@@ -2,7 +2,9 @@
  
 ![1](https://github.com/virajbhutada/Tableau-DataVizzes/assets/143819712/08818058-59b2-4230-83b5-c4ac49c0ac44)
 
-## Professional Overview 📈
+
+# <a href="https://www.linkedin.com/in/virajnbhutada24/"> Hi There! I'm Viraj Bhutada</a> 
+
 
 A dedicated data scientist and enthusiastic learner, committed to uncovering meaningful insights from complex datasets. With a strong background in data analysis, machine learning, and data visualization, specializing in transforming intricate data into actionable insights and creating impactful solutions. The goal is to leverage analytical skills and continuous learning to discover patterns and trends that support informed decision-making.
 
@@ -184,7 +186,7 @@ Passionate about exploring new techniques, staying current with industry advance
 ---
 
 
-## Let's Connect and Innovate! 🤝
+### Let's Connect and Innovate! 🤝
 Thank you for exploring my data journey. I’m enthusiastic about connecting with fellow data science enthusiasts, researchers, and professionals. If you’re passionate about data analysis, machine learning, or data-driven decision-making, I’d love to collaborate and share insights.
 
 Feel free to reach out for project collaborations, research discussions, or to explore new ideas in data science. Together, we can uncover new insights and drive innovation.
