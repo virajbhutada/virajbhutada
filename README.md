@@ -52,6 +52,10 @@ Passionate about exploring new techniques, staying current with industry advance
 
 <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Developer Profile" style="width: 320px; height: auto;">
 
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Developer Profile" style="width: 100%; height: auto;">
+
+
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Developer Profile" style="width: 100%;">
 
 
 | **Platform**           | **Profile**                                                                                    | **Description**                                                                                                                                                                      |
