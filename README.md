@@ -12,7 +12,7 @@ Passionate about exploring new techniques, staying current with industry advance
 
 ---
 
-# Core Competencies and Expertise 🚀
+## Core Competencies and Expertise 🚀
 
 
 
@@ -48,7 +48,7 @@ Passionate about exploring new techniques, staying current with industry advance
 ---
 
 
-# Developer Profile 💻 
+## Developer Profile 💻 
 <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Developer Profile" style="width: 320px; height: auto;">
 
 
@@ -114,7 +114,7 @@ Passionate about exploring new techniques, staying current with industry advance
 
 ---
 
-# GitHub Stats 📊     
+## GitHub Stats 📊     
 
 
 
@@ -172,7 +172,7 @@ Passionate about exploring new techniques, staying current with industry advance
 
 
 
-##  GitHub Trophies 🏆
+###  GitHub Trophies 🏆
 ![](https://github-profile-trophy.vercel.app/?username=virajbhutada&theme=discord&no-frame=false&no-bg=true&margin-w=4)
 
 
@@ -180,13 +180,13 @@ Passionate about exploring new techniques, staying current with industry advance
 ---
 
 
-##  Random Dev Quote ✍️
+###  Random Dev Quote ✍️
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 
 
-## Let's Connect and Innovate! 🤝
+### Let's Connect and Innovate! 🤝
 Thank you for exploring my data journey. I’m enthusiastic about connecting with fellow data science enthusiasts, researchers, and professionals. If you’re passionate about data analysis, machine learning, or data-driven decision-making, I’d love to collaborate and share insights.
 
 Feel free to reach out for project collaborations, research discussions, or to explore new ideas in data science. Together, we can uncover new insights and drive innovation.
