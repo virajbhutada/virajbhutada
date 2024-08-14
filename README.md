@@ -37,18 +37,16 @@ I am a dedicated data enthusiast and aspiring data scientist committed to uncove
 
 ## Project Highlights
 
-- **Predictive Modeling:** Developed various predictive models, demonstrating proficiency in regression, classification, and clustering algorithms.
 
-- **Data Visualization:** Created compelling visualizations using tools like Tableau, Power BI and Looker to effectively communicate complex insights.
-
-- **Problem-Solving Skills:** Showcased expertise through active participation in coding challenges and competitions, fostering algorithmic thinking and problem-solving abilities.
-
-- **Version Control Management:** Utilized Git for efficient code management and collaboration, ensuring smooth project workflows and seamless collaboration.
-
-- **Community Engagement:** Engaged with the data science community through discussions, collaborations, and knowledge-sharing, contributing to a collaborative and vibrant environment.
-
+- **Advanced Data Analysis:** Demonstrated expertise in utilizing statistical methods, machine learning algorithms, and data visualization tools to extract actionable insights from complex datasets.  
+- **Machine Learning Models:** Successfully built and deployed predictive models, enhancing decision-making processes and optimizing business outcomes.  
+- **Data Visualization:** Proficient in creating intuitive and informative dashboards using Power BI and Tableau, effectively communicating data-driven stories to stakeholders.  
+- **SQL & Database Management:** Strong experience in designing and managing databases, performing complex SQL queries, and ensuring data integrity and accuracy.  
+- **Python & Data Science Libraries:** Adept in Python programming, leveraging libraries such as Pandas, NumPy, and Scikit-Learn for efficient data manipulation and analysis.  
+- **Continuous Learning:** Committed to staying at the forefront of technology and data science trends, continuously enhancing my skills through certifications and hands-on projects.
 
 ---
+
 
 ## 💻 Developer Profile
 
