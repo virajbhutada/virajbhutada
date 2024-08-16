@@ -2,7 +2,7 @@
 ![1](https://github.com/virajbhutada/Tableau-DataVizzes/assets/143819712/08818058-59b2-4230-83b5-c4ac49c0ac44)
 
 
-# <a href="https://www.linkedin.com/in/virajnbhutada24/"> Hi There! I'm Viraj Bhutada</a> 
+# <a href="https://www.linkedin.com/in/virajnbhutada24/"> Hi There! I'm Viraj Bhutada</a>  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30">
 
 
 A dedicated data scientist and enthusiastic learner, committed to uncovering meaningful insights from complex datasets. With a strong background in data analysis, machine learning, and data visualization, specializing in transforming intricate data into actionable insights and creating impactful solutions. The goal is to leverage analytical skills and continuous learning to discover patterns and trends that support informed decision-making.
@@ -185,15 +185,11 @@ Passionate about exploring new techniques, staying current with industry advance
 
 
 <p align="center">
-  <b><span style="font-size: 36px; font-weight: 700; text-transform: uppercase;">Thank you for stopping by. Let us continue to push boundaries and make significant strides in the world of data together.</span></b>
-  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30">
+  <b><span style="font-size: 72px; font-weight: 700; text-transform: uppercase;">THANK YOU FOR STOPPING BY. LET US CONTINUE TO PUSH BOUNDARIES AND MAKE SIGNIFICANT STRIDES IN THE WORLD OF DATA TOGETHER.</span></b>
 </p>
 
 
-<p align="center">
-  <b><span style="font-size: 36px; font-weight: 700;">Thank you for stopping by. Let us continue to push boundaries and make significant strides in the world of data together.</span></b>
-  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30">
-</p>
+
 
 
 
