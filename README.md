@@ -185,7 +185,12 @@ Passionate about exploring new techniques, staying current with industry advance
 
 
 <p align='center'>
-  <p><b><span style="font-size: 72px; font-weight: 1000;">THANKS FOR STOPPING BY! KEEP PUSHING BOUNDARIES AND MAKING WAVES. LET'S CONQUER THE WORLD OF DATA TOGETHER. </span></b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30"></p>
+  <p><b><span style="font-size: 72px; font-weight: 1000;">Thank you for stopping by. Let us continue to push boundaries and make significant strides in the world of data together. </span></b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30"></p>
+</p>
+
+<p align="center">
+  <b><span style="font-size: 36px; font-weight: 700;">Thank you for stopping by. Let us continue to push boundaries and make significant strides in the world of data together.</span></b>
+  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30">
 </p>
 
 
