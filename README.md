@@ -182,15 +182,19 @@ Passionate about exploring new techniques, staying current with industry advance
 ##  Random Dev Quote ✍️
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
----
 
 
-### Let's Connect and Innovate! 🤝
-Thank you for exploring my data journey. I’m enthusiastic about connecting with fellow data science enthusiasts, researchers, and professionals. If you’re passionate about data analysis, machine learning, or data-driven decision-making, I’d love to collaborate and share insights.
+<p align='center'>
+  <p><b><span style="font-size: 72px; font-weight: 1000;">THANKS FOR STOPPING BY! KEEP PUSHING BOUNDARIES AND MAKING WAVES. LET'S CONQUER THE WORLD OF DATA TOGETHER. </span></b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30"></p>
+</p>
 
-Feel free to reach out for project collaborations, research discussions, or to explore new ideas in data science. Together, we can uncover new insights and drive innovation.
 
-Looking forward to potential collaborations and shared successes!
 
+
+ 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
+<img src="https://profile-counter.glitch.me/virajbhutada/count.svg" width="1000"/>
 
 
