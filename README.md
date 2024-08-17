@@ -77,7 +77,7 @@ Passionate about exploring new techniques, staying current with industry advance
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/virajbhutada24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/virajnbhutada24" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/virajnbhutada24/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/virajnbhutada24/" height="30" width="40" /></a>
 
----
+
 
 <h2 align="left">Languages and Tools <a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Neo.gif" width="40px"></a></h2>
 <p align="left">
