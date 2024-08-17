@@ -187,6 +187,9 @@ Passionate about exploring new techniques, staying current with industry advance
 
 
 
+<h1>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=18&Left=true&v=true&Leftwidth=1500&height=70&duration=7000&lines=THANK+YOU+FOR+STOPPING+BY.;LET+US+CONTINUE+TO+PUSH+BOUNDARIES;AND+MAKE+SIGNIFICANT+STRIDES;IN+THE+WORLD+OF+DATA+TOGETHER.;Drop+me+a+message+on+LinkedIn!;Always+open+to+innovative+collaborations;and+new+ideas+💡)" />
+</h1>
 
 
  
