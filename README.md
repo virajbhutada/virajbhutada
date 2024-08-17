@@ -30,7 +30,7 @@ Passionate about exploring new techniques, staying current with industry advance
 | **Database Management**| 💾 Strong experience in designing and managing databases, performing complex SQL queries, and ensuring data integrity and accuracy. Skilled in database design, optimization, and maintaining data quality across various systems. |
 | **Python Proficiency** | 🐍 Adept in Python programming, leveraging libraries such as Pandas, NumPy, and Scikit-Learn for efficient data manipulation and analysis. Comfortable writing and optimizing Python code to handle large datasets and perform advanced analytics. |
 
----
+
 
 
 <div align="center">
@@ -45,7 +45,6 @@ Passionate about exploring new techniques, staying current with industry advance
 
 
 ---
-
 
 ## Developer Profile 💻 
 <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Developer Profile" style="width: 320px; height: auto;">
