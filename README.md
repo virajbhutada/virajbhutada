@@ -1,4 +1,5 @@
 
+
 ![1](https://github.com/virajbhutada/Tableau-DataVizzes/assets/143819712/08818058-59b2-4230-83b5-c4ac49c0ac44)
 
 
@@ -176,12 +177,6 @@ Passionate about exploring new techniques, staying current with industry advance
 
 ##  Random Dev Quote ✍️
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-
-
-<p align="center">
-  <b><span style="font-size: 72px; font-weight: 700; text-transform: uppercase;">THANK YOU FOR STOPPING BY. LET US CONTINUE TO PUSH BOUNDARIES AND MAKE SIGNIFICANT STRIDES IN THE WORLD OF DATA TOGETHER.</span></b>
-</p>
 
 
 
