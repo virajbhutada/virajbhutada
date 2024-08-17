@@ -64,7 +64,8 @@ Passionate about exploring new techniques, staying current with industry advance
 
 ----
 
-<h3 style="font-size: 22px;">Connect with me <a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="60px"></a>
+
+<h2 style="font-size: 22px;">Connect with me <a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="60px"></a>
 <p align="left">
   
 <a href="https://twitter.com/virajbhutada1077" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="virajbhutada1077" height="30" width="40" /></a>
@@ -78,7 +79,7 @@ Passionate about exploring new techniques, staying current with industry advance
 
 ---
 
-<h3 align="left">Languages and Tools <a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Neo.gif" width="40px"></a></h3>
+<h2 align="left">Languages and Tools <a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Neo.gif" width="40px"></a></h2>
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
   <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank" rel="noreferrer"> <img src="https://github.com/microsoft/PowerBI-Icons/blob/2bf1c982fb24528eee1559a96a25eb534c175cfd/SVG/Power-BI.svg" alt="PowerBI" width="40" height="40"/></a>
@@ -113,11 +114,6 @@ Passionate about exploring new techniques, staying current with industry advance
 ---
 
 ## GitHub Stats 📊     
-
-
-
-
-
 
 <table>
   <tr>
