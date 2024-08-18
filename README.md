@@ -176,16 +176,18 @@ Passionate about exploring new techniques, staying current with industry advance
 
 
 ##  Random Dev Quote ✍️
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote">
-</p>
 
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote">
+
+
+---
 
 <div align="center">
     <h1>
-        <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=18&Left=true&v=true&Leftwidth=1500&height=70&duration=7000&lines=THANK+YOU+FOR+STOPPING+BY.;LET+US+CONTINUE+TO+PUSH+BOUNDARIES;AND+MAKE+SIGNIFICANT+STRIDES;IN+THE+WORLD+OF+DATA+TOGETHER.;Reach+out+to+me+on+LinkedIn!;Always+open+to+innovative+collaborations;and+new+ideas+💡)" />
+        <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=18&Left=true&v=true&Leftwidth=1500&height=70&duration=7000&lines=THANK+YOU+FOR+STOPPING+BY.;LET+US+CONTINUE+TO+PUSH+BOUNDARIES;AND+MAKE+SIGNIFICANT+STRIDES;IN+THE+WORLD+OF+DATA+TOGETHER.;Reach+out+to+me+on+LinkedIn!;Always+open+to+innovative+collaborations;and+new+ideas+💡" />
     </h1>
 </div>
+
 
 
 
