@@ -176,7 +176,9 @@ Passionate about exploring new techniques, staying current with industry advance
 
 
 ##  Random Dev Quote ✍️
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote">
+</p>
 
 
 <div align="center">
