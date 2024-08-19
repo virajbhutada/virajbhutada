@@ -172,7 +172,6 @@ Passionate about exploring new techniques, staying current with industry advance
 
 
 
----
 
 
 ##  Random Dev Quote ✍️
@@ -180,7 +179,8 @@ Passionate about exploring new techniques, staying current with industry advance
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote">
 
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 
 <div align="center">
     <h1>
