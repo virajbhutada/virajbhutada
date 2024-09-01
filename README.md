@@ -13,7 +13,7 @@
 
 A dedicated data scientist and enthusiastic learner, committed to uncovering meaningful insights from complex datasets. With a strong background in data analysis, machine learning, and data visualization, specializing in transforming intricate data into actionable insights and creating impactful solutions. The goal is to leverage analytical skills and continuous learning to discover patterns and trends that support informed decision-making.
 
-Passionate about exploring new techniques, staying current with industry advancements, and continuously enhancing skills to contribute to data science. Focused on driving innovation through data, ensuring accurate analyses, and fostering collaboration to achieve impactful results.
+Passionate about exploring new techniques, staying current with industry advancements, and continuously enhancing skills to contribute positively to data science. Focused on driving innovation through data, ensuring robust and accurate analyses, and fostering collaborative opportunities to achieve impactful results.
 
 ---
 
