@@ -1,8 +1,6 @@
 
 
-![1](https://github.com/virajbhutada/Tableau-DataVizzes/assets/143819712/08818058-59b2-4230-83b5-c4ac49c0ac44)
-
-
+![MasterHead](https://media.licdn.com/dms/image/C4D12AQESj72-s5gEKg/article-cover_image-shrink_600_2000/0/1626753867110?e=2147483647&v=beta&t=Kf7YAuwZtyCGYLNch-Mgc5eOC-7h7uL_dnBAIgsAFRQ)
 
 <div align="center">
   
@@ -15,7 +13,8 @@
 
 A dedicated data scientist and enthusiastic learner, committed to uncovering meaningful insights from complex datasets. With a strong background in data analysis, machine learning, and data visualization, specializing in transforming intricate data into actionable insights and creating impactful solutions. The goal is to leverage analytical skills and continuous learning to discover patterns and trends that support informed decision-making.
 
-Passionate about exploring new techniques, staying current with industry advancements, and continuously enhancing skills to contribute positively to the field of data science. Focused on driving innovation through data, ensuring robust and accurate analyses, and fostering collaborative opportunities to achieve impactful results.
+Passionate about leveraging the latest techniques and industry advancements to drive innovation in data science. Committed to delivering accurate analyses and fostering collaboration to achieve meaningful results.
+
 
 ---
 
