@@ -15,9 +15,9 @@ A dedicated data scientist and enthusiastic learner, committed to uncovering mea
 
 Passionate about exploring new techniques, staying current with industry advancements, and continuously enhancing skills to contribute positively to data science. Focused on driving innovation through data, ensuring robust and accurate analyses, and fostering collaborative opportunities to achieve impactful results.
 
+---
 
-
-## Core Competencies and Expertise 🚀
+## Core Competencies and Expertise 💡
 
 
 
