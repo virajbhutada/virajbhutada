@@ -2,11 +2,15 @@
 
 ![MasterHead](https://media.licdn.com/dms/image/C4D12AQESj72-s5gEKg/article-cover_image-shrink_600_2000/0/1626753867110?e=2147483647&v=beta&t=Kf7YAuwZtyCGYLNch-Mgc5eOC-7h7uL_dnBAIgsAFRQ)
 
-<div align="center">
-  
-# <a href="https://www.linkedin.com/in/virajnbhutada24/"> Hi There! I'm Viraj Bhutada</a>  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30">
 
-</div>
+
+</a>
+<h1 align="center">
+    <a href="#">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=34f700&size=35&center=true&vCenter=true&width=500&height=70&duration=2600&lines=Hi+There!+👋;+I'm+Viraj+Bhutada!" />
+    </a>
+</h1>
+
 
 <img align="right" alt='Coder GIF' height=250 width=300 src="https://user-images.githubusercontent.com/64009514/102066398-c847f780-3e1f-11eb-8cb8-b9e5be919da2.gif" />
 
@@ -187,17 +191,13 @@ Passionate about exploring new techniques, staying current with industry advance
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 
+
+
 <div align="center">
     <h1>
-        <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=18&Left=true&v=true&Leftwidth=1500&height=70&duration=7000&lines=THANK+YOU+FOR+STOPPING+BY.;LET+US+CONTINUE+TO+PUSH+BOUNDARIES;AND+MAKE+SIGNIFICANT+STRIDES;IN+THE+WORLD+OF+DATA+TOGETHER.;Reach+out+to+me+on+LinkedIn!;Always+open+to+innovative+collaborations;and+new+ideas+💡" />
+        <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=18&Left=true&v=true&Leftwidth=1500&height=70&duration=2600&lines=THANK+YOU+FOR+STOPPING+BY.;LET+US+CONTINUE+TO+PUSH+BOUNDARIES;AND+MAKE+SIGNIFICANT+STRIDES;IN+THE+WORLD+OF+DATA+TOGETHER.;Reach+out+to+me+on+LinkedIn!;Always+open+to+innovative+collaborations;and+new+ideas+💡&color=E5E4E2" />
     </h1>
 </div>
-
-
-
-
-
-
 
 
  
