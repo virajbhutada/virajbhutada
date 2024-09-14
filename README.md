@@ -140,7 +140,7 @@ Passionate about exploring new techniques, staying current with industry advance
 
 ---
 
-## GitHub Stats 📊     
+# GitHub Stats 📊     
 
 <p align="right">
 <img src="https://komarev.com/ghpvc/?username=brunotacca&style=plastic&label=Views">
