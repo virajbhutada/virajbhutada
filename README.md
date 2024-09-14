@@ -1,5 +1,10 @@
 
 
+
+
+
+
+
 ![MasterHead](https://media.licdn.com/dms/image/C4D12AQESj72-s5gEKg/article-cover_image-shrink_600_2000/0/1626753867110?e=2147483647&v=beta&t=Kf7YAuwZtyCGYLNch-Mgc5eOC-7h7uL_dnBAIgsAFRQ)
 
 
@@ -19,27 +24,6 @@ A dedicated data scientist and enthusiastic learner, committed to uncovering mea
 
 Passionate about exploring new techniques, staying current with industry advancements, and continuously enhancing skills to contribute positively to data science. Focused on driving innovation through data, ensuring robust and accurate analyses, and fostering collaborative opportunities to achieve impactful results.
 
----
-
-## Core Competencies and Expertise 💡
-
-
-
-
-| **Area**               | **Description**                                                                                      |
-|------------------------|------------------------------------------------------------------------------------------------------|
-| **Data Analysis**      | 💻 Proficient in exploring and analyzing datasets to derive actionable insights. Skilled in cleaning, transforming, and interpreting data to support business decisions. |
-| **Machine Learning**   | 🤖 Aiming to apply advanced machine learning techniques for predictive modeling and decision-making. Experienced in building and fine-tuning models to make accurate predictions based on historical data. |
-| **Data Visualization** | 📊 Skilled in creating clear and compelling visualizations to communicate complex information effectively. Utilizes tools like Tableau and Power BI to craft intuitive dashboards and reports. |
-| **Exploration**        | 🔬 Actively exploring the fascinating domains of data science and machine learning. Eager to experiment with new techniques and technologies to solve challenging data problems. |
-| **Continuous Learning**| 📚 Continuously enhancing skills in Python, R, SQL, and various data analysis libraries. Engaged in staying updated with the latest trends and advancements in data science and analytics. |
-| **Predictive Models**  | 🎯 Passionate about building predictive models, implementing machine learning algorithms, and transforming data into actionable intelligence. Focuses on creating models that forecast future trends and behaviors based on historical data. |
-| **Data Manipulation**  | 🛠 Experienced in data preprocessing, feature engineering, and model evaluation to ensure robust and accurate analyses. Proficient in cleaning and preparing data for analysis, and evaluating model performance to ensure reliability. |
-| **Collaboration**      | 🤝 Open to collaborations on data-related projects, research, or any exciting opportunities in the field of data science. Enjoys working with others to tackle complex data challenges and drive impactful results. |
-| **Advanced Data Analysis** | 🧠 Demonstrated expertise in utilizing statistical methods, machine learning algorithms, and data visualization tools to extract actionable insights from complex datasets. Capable of applying advanced analytical techniques to uncover trends and patterns in data. |
-| **Database Management**| 💾 Strong experience in designing and managing databases, performing complex SQL queries, and ensuring data integrity and accuracy. Skilled in database design, optimization, and maintaining data quality across various systems. |
-| **Python Proficiency** | 🐍 Adept in Python programming, leveraging libraries such as Pandas, NumPy, and Scikit-Learn for efficient data manipulation and analysis. Comfortable writing and optimizing Python code to handle large datasets and perform advanced analytics. |
-
 
 
 
@@ -56,26 +40,55 @@ Passionate about exploring new techniques, staying current with industry advance
 
 ---
 
-## Developer Profile 💻 
-<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Developer Profile" style="width: 320px; height: auto;">
+<details>
+<summary><h2>📚 Core Competencies and Expertise💡</h2></summary>
+
+| **Area**               | **Description**                                                                                      |
+|------------------------|------------------------------------------------------------------------------------------------------|
+| **Data Analysis**      | Proficient in exploring and analyzing datasets to derive actionable insights. Skilled in cleaning, transforming, and interpreting data to support business decisions. |
+| **Machine Learning**   | Aiming to apply advanced machine learning techniques for predictive modeling and decision-making. Experienced in building and fine-tuning models to make accurate predictions based on historical data. |
+| **Data Visualization** | Skilled in creating clear and compelling visualizations to communicate complex information effectively. Utilizes tools like Tableau and Power BI to craft intuitive dashboards and reports. |
+| **Exploration**        | Exploring the fascinating data science and machine learning domains. Eager to experiment with new techniques and technologies to solve challenging data problems. |
+| **Continuous Learning**| Continuously enhancing skills in Python, R, SQL, and various data analysis libraries. Engaged in staying updated with the latest trends and advancements in data science and analytics. |
+| **Predictive Models**  | Passionate about building predictive models, implementing machine learning algorithms, and transforming data into actionable intelligence. Focuses on creating models that forecast future trends and behaviors based on historical data. |
+| **Data Manipulation**  | Experienced in data preprocessing, feature engineering, and model evaluation to ensure robust and accurate analyses. Proficient in cleaning and preparing data for analysis, and evaluating model performance to ensure reliability. |
+| **Collaboration**      | Open to collaborations on data-related projects, research, or any exciting opportunities in the field of data science. Enjoys working with others to tackle complex data challenges and drive impactful results. |
+| **Advanced Data Analysis** | Demonstrated expertise in utilizing statistical methods, machine learning algorithms, and data visualization tools to extract actionable insights from complex datasets. Capable of applying advanced analytical techniques to uncover trends and patterns in data. |
+| **Database Management**| Strong experience in designing and managing databases, performing complex SQL queries, and ensuring data integrity and accuracy. Skilled in database design, optimization, and maintaining data quality across various systems. |
+| **Python Proficiency** | Adept in Python programming, leveraging libraries such as Pandas, NumPy, and Scikit-Learn for efficient data manipulation and analysis. Comfortable writing and optimizing Python code to handle large datasets and perform advanced analytics. |
+
+</details>
 
 
 
 
-| **Platform**           | **Profile**                                                                                    | **Description**                                                                                                                                                                      |
-|------------------------|----------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|     **LeetCode**       | <a href="https://leetcode.com/virajnbhutada24/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/virajnbhutada24/" height="35" width="40" /></a>   | Enhanced problem-solving skills by tackling a diverse range of algorithmic challenges. Collaborated on LeetCode to refine and optimize code for efficiency.                             |
-| **Tableau**            | <a href="https://public.tableau.com/app/profile/viraj.bhutada/vizzes/" target="_blank" rel="noreferrer" style="text-decoration: none; outline: none;"><img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau" width="40" height="40"/></a>                   | Conceptualized and developed interactive dashboards that communicated complex data insights effectively. Implemented Tableau best practices to ensure scalable and maintainable visualizations.  |
-| **HackerRank**         | <a href="https://www.hackerrank.com/profile/virajnbhutada24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/virajnbhutada24" height="55" width="50" /></a>     | Enhanced problem-solving skills and my algorithmic thinking through active participation in coding challenges and competitions on HackerRank. Analyzed and optimized algorithms for better time and space complexity.   |
-| **Google Cloud**       | <a href="https://www.cloudskillsboost.google/public_profiles/1fe01bf9-78f3-4e57-a935-c7486b6856e1" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="35" height="35"/></a>  | Acquired proficiency in Google Cloud technologies by completing hands-on projects and certifications. Applied cloud architecture principles to design scalable and resilient solutions.  |
-| **Salesforce Trailblazer** | <a href="https://www.salesforce.com/trailblazer/virajbhutada" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Salesforce.com_logo.svg/1280px-Salesforce.com_logo.svg.png" alt="Salesforce Trailblazer" height="30" width="45" /></a> | Distinguished as a Salesforce Trailblazer for contributions to the community. Implemented and documented innovative solutions using Salesforce, contributing to the platform's ecosystem growth.  |
-| **Microsoft Learn**     | <a href="https://learn.microsoft.com/en-us/users/virajbhutada-6329/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Microsoft_logo.svg/768px-Microsoft_logo.svg.png?20210729021049" alt="Microsoft Learn" height="30" width="35" /></a>   | Engaged proactively with Microsoft Learn to acquire and showcase Microsoft-related skills. Completed practical projects and assessments to validate knowledge in various Microsoft technologies. |
+---
+
+
+
+<details>
+  <summary><h2>👨‍💻 Click to view Developer Profile 🚀</h2></summary>
+
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Developer Profile" style="width: 320px; height: auto;">
+
+  | **Platform**           | **Profile**                                                                                    | **Description**                                                                                                                                                                      |
+  |------------------------|----------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+  |     **LeetCode**       | <a href="https://leetcode.com/virajnbhutada24/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/virajnbhutada24/" height="35" width="40" /></a>   | Enhanced problem-solving skills by tackling a diverse range of algorithmic challenges. Collaborated on LeetCode to refine and optimize code for efficiency.                             |
+  | **Tableau**            | <a href="https://public.tableau.com/app/profile/viraj.bhutada/vizzes/" target="_blank" rel="noreferrer" style="text-decoration: none; outline: none;"><img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau" width="40" height="40"/></a>                   | Conceptualized and developed interactive dashboards that communicated complex data insights effectively. Implemented Tableau best practices to ensure scalable and maintainable visualizations.  |
+  | **HackerRank**         | <a href="https://www.hackerrank.com/profile/virajnbhutada24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/virajnbhutada24" height="55" width="50" /></a>     | Enhanced problem-solving skills and my algorithmic thinking through active participation in coding challenges and competitions on HackerRank. Analyzed and optimized algorithms for better time and space complexity.   |
+  | **Google Cloud**       | <a href="https://www.cloudskillsboost.google/public_profiles/1fe01bf9-78f3-4e57-a935-c7486b6856e1" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="35" height="35"/></a>  | Acquired proficiency in Google Cloud technologies by completing hands-on projects and certifications. Applied cloud architecture principles to design scalable and resilient solutions.  |
+  | **Salesforce Trailblazer** | <a href="https://www.salesforce.com/trailblazer/virajbhutada" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Salesforce.com_logo.svg/1280px-Salesforce.com_logo.svg.png" alt="Salesforce Trailblazer" height="30" width="45" /></a> | Distinguished as a Salesforce Trailblazer for contributions to the community. Implemented and documented innovative solutions using Salesforce, contributing to the platform's ecosystem growth.  |
+  | **Microsoft Learn**     | <a href="https://learn.microsoft.com/en-us/users/virajbhutada-6329/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Microsoft_logo.svg/768px-Microsoft_logo.svg.png?20210729021049" alt="Microsoft Learn" height="30" width="35" /></a>   | Engaged proactively with Microsoft Learn to acquire and showcase Microsoft-related skills. Completed practical projects and assessments to validate knowledge in various Microsoft technologies. |
+
+</details>
 
 
 ----
 
+<details>
+<summary><h2>🔗 Networking & Technical Skills 📈</h2></summary>
 
-<h2 style="font-size: 22px;">Connect with me <a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="60px"></a>
+<h3 style="font-size: 22px;">Connect with me <a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="60px"></a>
 <p align="left">
   
 <a href="https://twitter.com/virajbhutada1077" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="virajbhutada1077" height="30" width="40" /></a>
@@ -89,7 +102,7 @@ Passionate about exploring new techniques, staying current with industry advance
 
 
 
-<h2 align="left">Languages and Tools <a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Neo.gif" width="40px"></a></h2>
+<h3 align="left">Languages and Tools <a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Neo.gif" width="40px"></a></h2>
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
   <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank" rel="noreferrer"> <img src="https://github.com/microsoft/PowerBI-Icons/blob/2bf1c982fb24528eee1559a96a25eb534c175cfd/SVG/Power-BI.svg" alt="PowerBI" width="40" height="40"/></a>
@@ -121,9 +134,17 @@ Passionate about exploring new techniques, staying current with industry advance
   <a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="jupyter" width="40" height="40"/></a>
 </p>
 
+</details>
+
+
+
 ---
 
 ## GitHub Stats 📊     
+
+<p align="right">
+<img src="https://komarev.com/ghpvc/?username=brunotacca&style=plastic&label=Views">
+</p>
 
 <table>
   <tr>
@@ -180,11 +201,12 @@ Passionate about exploring new techniques, staying current with industry advance
 ![](https://github-profile-trophy.vercel.app/?username=virajbhutada&theme=discord&no-frame=false&no-bg=true&margin-w=4)
 
 
-
+---
 
 
 ##  Random Dev Quote ✍️
 
+<h3 align="center"></p>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote">
 
 
