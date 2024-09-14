@@ -24,13 +24,14 @@ A dedicated data scientist and enthusiastic learner, committed to uncovering mea
 
 Passionate about exploring new techniques, staying current with industry advancements, and continuously enhancing skills to contribute positively to data science. Focused on driving innovation through data, ensuring robust and accurate analyses, and fostering collaborative opportunities to achieve impactful results.
 
+ 
 
 ---
 
 <div align="center">
     <p align="center">
         <a href="https://www.linkedin.com/in/virajnbhutada24/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/virajnbhutada24/" alt="LinkedIn" height="25" style="border-radius: 5px;"></a>
-        <a href="mailto:virajnbhutada24@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-088f8f?style=flat&logo=gmail&logoColor=white&link=mailto:virajnbhutada24@gmail.com" alt="Email" height="25" style="border-radius: 5px;"></a>
+        <a href="mailto:virajnbhutada24@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-8a3324?style=flat&logo=gmail&logoColor=white&link=mailto:virajnbhutada24@gmail.com" alt="Email" height="25" style="border-radius: 5px;"></a>
         <a href="https://twitter.com/VirajBhutada24"><img src="https://img.shields.io/static/v1?label=&message=Follow&color=gray&logo=x&logoColor=white&labelColor=black" alt="X" height="25" style="border-radius: 5px;"></a>
         <a href="https://www.youtube.com/@virajndataleap"><img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=flat&logo=youtube&logoColor=white" alt="YouTube" height="25" style="border-radius: 5px;"></a>
         <a href="https://sites.google.com/view/virajnbhutada24/home"><img src="https://img.shields.io/badge/Portfolio-Visit-lavender?style=flat&logoColor=white&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIj4KICA8Y2lyY2xlIGN4PSI1MCIgY3k9IjUwIiByPSI1MCIgc3R5bGU9ImZpbGw6cmVkOyIgLz4KPC9zdmc+Cg==" alt="Portfolio" height="25" style="border-radius: 5px;"></a>
