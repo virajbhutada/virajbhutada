@@ -25,18 +25,17 @@ A dedicated data scientist and enthusiastic learner, committed to uncovering mea
 Passionate about exploring new techniques, staying current with industry advancements, and continuously enhancing skills to contribute positively to data science. Focused on driving innovation through data, ensuring robust and accurate analyses, and fostering collaborative opportunities to achieve impactful results.
 
 
-
+---
 
 <div align="center">
     <p align="center">
         <a href="https://www.linkedin.com/in/virajnbhutada24/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/virajnbhutada24/" alt="LinkedIn" height="25" style="border-radius: 5px;"></a>
-        <a href="mailto:virajnbhutada24@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-gold?style=flat&logo=gmail&logoColor=white&link=mailto:virajnbhutada24@gmail.com" alt="Email" height="25" style="border-radius: 5px;"></a>
+        <a href="mailto:virajnbhutada24@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=flat&logo=gmail&logoColor=white&link=mailto:virajnbhutada24@gmail.com" alt="Email" height="25" style="border-radius: 5px;"></a>
         <a href="https://twitter.com/VirajBhutada24"><img src="https://img.shields.io/static/v1?label=&message=Follow&color=gray&logo=x&logoColor=white&labelColor=black" alt="X" height="25" style="border-radius: 5px;"></a>
         <a href="https://www.youtube.com/@virajndataleap"><img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=flat&logo=youtube&logoColor=white" alt="YouTube" height="25" style="border-radius: 5px;"></a>
         <a href="https://sites.google.com/view/virajnbhutada24/home"><img src="https://img.shields.io/badge/Portfolio-Visit-lavender?style=flat&logoColor=white&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIj4KICA8Y2lyY2xlIGN4PSI1MCIgY3k9IjUwIiByPSI1MCIgc3R5bGU9ImZpbGw6cmVkOyIgLz4KPC9zdmc+Cg==" alt="Portfolio" height="25" style="border-radius: 5px;"></a>
     </p>
 </div>
-
 
 ---
 
@@ -100,7 +99,7 @@ Passionate about exploring new techniques, staying current with industry advance
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/virajbhutada24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/virajnbhutada24" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/virajnbhutada24/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/virajnbhutada24/" height="30" width="40" /></a>
 
-
+----
 
 <h3 align="left">Languages and Tools <a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Neo.gif" width="40px"></a></h2>
 <p align="left">
@@ -118,7 +117,8 @@ Passionate about exploring new techniques, staying current with industry advance
   <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau" width="40" height="40"/></a>
   <a href="https://www.openai.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/chat.png" alt="ChatGPT" width="40" height="40"/></a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/pandas.png" alt="Pandas" width="40" height="40"/></a>
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/numpy.png" alt="NumPy" width="40" height="40"/></a>
+  
+<a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/numpy.png" alt="NumPy" width="40" height="40"/></a>
   <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow" width="40" height="40"/></a>
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/></a>
   <a href="https://plotly.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/plot_ly/plot_ly-icon.svg" alt="plotly" width="40" height="40"/></a>
@@ -145,6 +145,7 @@ Passionate about exploring new techniques, staying current with industry advance
 <p align="right">
 <img src="https://komarev.com/ghpvc/?username=brunotacca&style=plastic&label=Views">
 </p>
+
 
 <table>
   <tr>
