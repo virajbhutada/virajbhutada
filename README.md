@@ -203,17 +203,19 @@ Passionate about exploring new techniques, staying current with industry advance
 ![](https://github-profile-trophy.vercel.app/?username=virajbhutada&theme=discord&no-frame=false&no-bg=true&margin-w=4)
 
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 
-##  Random Dev Quote ✍️
+
+
+
+<h2 align="center">Random Dev Quote ✍️</h2>
 
 <h3 align="center"></p>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote">
 
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
+---
 
 
 
