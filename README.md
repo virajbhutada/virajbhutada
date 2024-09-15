@@ -232,7 +232,6 @@ Passionate about exploring new techniques, staying current with industry advance
 
 
 
-
 <p align="left">
   <a href="#top">
     <img src="https://img.shields.io/static/v1?label&message=Back+to+Top&color=36454F&style=flat&logo" alt="back to top" />
