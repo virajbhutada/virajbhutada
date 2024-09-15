@@ -230,5 +230,12 @@ Passionate about exploring new techniques, staying current with industry advance
 </p>
 <img src="https://profile-counter.glitch.me/virajbhutada/count.svg" width="1000"/>
 
-<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=87CEEB&style=flat&logo" alt="back to top" /></a></p>
+
+
+
+<p align="center">
+  <a href="#top">
+    <img src="https://img.shields.io/static/v1?label&message=Back+to+Top&color=36454F&style=flat&logo" alt="back to top" />
+  </a>
+</p>
 
