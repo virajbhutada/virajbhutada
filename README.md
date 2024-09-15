@@ -197,6 +197,7 @@ Passionate about exploring new techniques, staying current with industry advance
 <h2 align="left">⚡ Activity Graph </h2>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=virajbhutada&bg_color=0d1117&color=7df9ff&line=7df9ff&point=ffffff&area=333333&hide_border=true" style="border-radius: 10px">
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 
 ##  GitHub Trophies 🏆
