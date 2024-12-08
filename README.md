@@ -88,9 +88,7 @@
   ## GitHub Stats 📊
  
 
-<p align="right">
-<img src="https://komarev.com/ghpvc/?username=virajbhutada&style=plastic&label=Views">
-</p>
+
 
 
   <tr>
