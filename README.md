@@ -105,11 +105,9 @@
       </a>
     </td>
   </tr>
-      <a href="https://github.com/virajbhutada">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=virajbhutada&theme=radical&layout=compact" />
-      </a>
-    </td>
-  </tr>
+     <a href="https://github.com/virajbhutada">
+    <img alt="Top Languages by Commit Chart" src="https://github-readme-stats.vercel.app/api/top-langs/?username=virajbhutada&langs_count=8&layout=compact&theme=radical" />
+  </a>
 
 
 
