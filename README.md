@@ -82,10 +82,10 @@
 
 
 
+---
 
 
-
-  ## GitHub Stats
+  ## GitHub Stats 📊
  
 
 <p align="right">
@@ -123,7 +123,7 @@
 <h3 align="left"></p>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote">
 
-
+---
 
 <div align="left">
     <p align="left">
