@@ -4,90 +4,53 @@
 
 
 
-![MasterHead](https://media.licdn.com/dms/image/C4D12AQESj72-s5gEKg/article-cover_image-shrink_600_2000/0/1626753867110?e=2147483647&v=beta&t=Kf7YAuwZtyCGYLNch-Mgc5eOC-7h7uL_dnBAIgsAFRQ)
-
-
-
 </a>
 <h1 align="center">
     <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=34f700&size=35&center=true&vCenter=true&width=500&height=70&duration=2600&lines=Hi+There!+👋;+I'm+Viraj+Bhutada!" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=blue&size=35&center=true&vCenter=true&width=500&height=70&duration=2600&lines=Hi+There!+👋;+I'm+Viraj+Bhutada!" />
     </a>
 </h1>
 
 
-<img align="right" alt='Coder GIF' height=250 width=300 src="https://user-images.githubusercontent.com/64009514/102066398-c847f780-3e1f-11eb-8cb8-b9e5be919da2.gif" />
+
+<br/><img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
 
 
-A dedicated data scientist and enthusiastic learner, committed to uncovering meaningful insights from complex datasets. With a strong background in data analysis, machine learning, and data visualization, specializing in transforming intricate data into actionable insights and creating impactful solutions. The goal is to leverage analytical skills and continuous learning to discover patterns and trends that support informed decision-making.
-
-Passionate about exploring new techniques, staying current with industry advancements, and continuously enhancing skills to contribute positively to data science. Focused on driving innovation through data, ensuring robust and accurate analyses, and fostering collaborative opportunities to achieve impactful results.
-
- 
-
----
-
-<details>
-<summary><h2>📚 Core Competencies and Expertise💡</h2></summary>
-
-| **Area**               | **Description**                                                                                      |
-|------------------------|------------------------------------------------------------------------------------------------------|
-| **Data Analysis**      | Proficient in exploring and analyzing datasets to derive actionable insights. Skilled in cleaning, transforming, and interpreting data to support business decisions. |
-| **Machine Learning**   | Aiming to apply advanced machine learning techniques for predictive modeling and decision-making. Experienced in building and fine-tuning models to make accurate predictions based on historical data. |
-| **Data Visualization** | Skilled in creating clear and compelling visualizations to communicate complex information effectively. Utilizes tools like Tableau and Power BI to craft intuitive dashboards and reports. |
-| **Exploration**        | Exploring the fascinating data science and machine learning domains. Eager to experiment with new techniques and technologies to solve challenging data problems. |
-| **Continuous Learning**| Continuously enhancing skills in Python, R, SQL, and various data analysis libraries. Engaged in staying updated with the latest trends and advancements in data science and analytics. |
-| **Predictive Models**  | Passionate about building predictive models, implementing machine learning algorithms, and transforming data into actionable intelligence. Focuses on creating models that forecast future trends and behaviors based on historical data. |
-| **Data Manipulation**  | Experienced in data preprocessing, feature engineering, and model evaluation to ensure robust and accurate analyses. Proficient in cleaning and preparing data for analysis, and evaluating model performance to ensure reliability. |
-| **Collaboration**      | Open to collaborations on data-related projects, research, or any exciting opportunities in the field of data science. Enjoys working with others to tackle complex data challenges and drive impactful results. |
-| **Advanced Data Analysis** | Demonstrated expertise in utilizing statistical methods, machine learning algorithms, and data visualization tools to extract actionable insights from complex datasets. Capable of applying advanced analytical techniques to uncover trends and patterns in data. |
-| **Database Management**| Strong experience in designing and managing databases, performing complex SQL queries, and ensuring data integrity and accuracy. Skilled in database design, optimization, and maintaining data quality across various systems. |
-| **Python Proficiency** | Adept in Python programming, leveraging libraries such as Pandas, NumPy, and Scikit-Learn for efficient data manipulation and analysis. Comfortable writing and optimizing Python code to handle large datasets and perform advanced analytics. |
-
-</details>
-
-
-
-
----
-
-
-
-<details>
-  <summary><h2>👨‍💻 Click to view Developer Profile 🚀</h2></summary>
-
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Developer Profile" style="width: 320px; height: auto;">
-
-  | **Platform**           | **Profile**                                                                                    | **Description**                                                                                                                                                                      |
-  |------------------------|----------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-  |     **LeetCode**       | <a href="https://leetcode.com/virajnbhutada24/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/virajnbhutada24/" height="35" width="40" /></a>   | Enhanced problem-solving skills by tackling a diverse range of algorithmic challenges. Collaborated on LeetCode to refine and optimize code for efficiency.                             |
-  | **Tableau**            | <a href="https://public.tableau.com/app/profile/viraj.bhutada/vizzes/" target="_blank" rel="noreferrer" style="text-decoration: none; outline: none;"><img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau" width="40" height="40"/></a>                   | Conceptualized and developed interactive dashboards that communicated complex data insights effectively. Implemented Tableau best practices to ensure scalable and maintainable visualizations.  |
-  | **HackerRank**         | <a href="https://www.hackerrank.com/profile/virajnbhutada24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/virajnbhutada24" height="55" width="50" /></a>     | Enhanced problem-solving skills and my algorithmic thinking through active participation in coding challenges and competitions on HackerRank. Analyzed and optimized algorithms for better time and space complexity.   |
-  | **Google Cloud**       | <a href="https://www.cloudskillsboost.google/public_profiles/1fe01bf9-78f3-4e57-a935-c7486b6856e1" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="35" height="35"/></a>  | Acquired proficiency in Google Cloud technologies by completing hands-on projects and certifications. Applied cloud architecture principles to design scalable and resilient solutions.  |
-  | **Salesforce Trailblazer** | <a href="https://www.salesforce.com/trailblazer/virajbhutada" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Salesforce.com_logo.svg/1280px-Salesforce.com_logo.svg.png" alt="Salesforce Trailblazer" height="30" width="45" /></a> | Distinguished as a Salesforce Trailblazer for contributions to the community. Implemented and documented innovative solutions using Salesforce, contributing to the platform's ecosystem growth.  |
-  | **Microsoft Learn**     | <a href="https://learn.microsoft.com/en-us/users/virajbhutada-6329/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Microsoft_logo.svg/768px-Microsoft_logo.svg.png?20210729021049" alt="Microsoft Learn" height="30" width="35" /></a>   | Engaged proactively with Microsoft Learn to acquire and showcase Microsoft-related skills. Completed practical projects and assessments to validate knowledge in various Microsoft technologies. |
-
-</details>
-
-
-----
-
-<details>
-<summary><h2>🔗 Networking & Technical Skills 📈</h2></summary>
-
----
-
-<div align="center">
-    <p align="center">
+<div align="left">
+    <p align="left">
         <a href="https://www.linkedin.com/in/virajnbhutada24/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/virajnbhutada24/" alt="LinkedIn" height="25" style="border-radius: 5px;"></a>
         <a href="mailto:virajnbhutada24@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-8a3324?style=flat&logo=gmail&logoColor=white&link=mailto:virajnbhutada24@gmail.com" alt="Email" height="25" style="border-radius: 5px;"></a>
-        <a href="https://twitter.com/VirajBhutada24"><img src="https://img.shields.io/static/v1?label=&message=Follow&color=gray&logo=x&logoColor=white&labelColor=black" alt="X" height="25" style="border-radius: 5px;"></a>
         <a href="https://www.youtube.com/@virajndataleap"><img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=flat&logo=youtube&logoColor=white" alt="YouTube" height="25" style="border-radius: 5px;"></a>
         <a href="https://www.datascienceportfol.io/virajnbhutada24"><img src="https://img.shields.io/badge/Portfolio-Visit-lavender?style=flat&logoColor=white&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIj4KICA8Y2lyY2xlIGN4PSI1MCIgY3k9IjUwIiByPSI1MCIgc3R5bGU9ImZpbGw6cmVkOyIgLz4KPC9zdmc+Cg==" alt="Portfolio" height="25" style="border-radius: 5px;"></a>
     </p>
 </div>
 
-<h3 align="left">Languages and Tools <a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Neo.gif" width="40px"></a></h2>
+
+
+
+
+<details>
+  <summary><h2> Developer Profiles </h2></summary>
+  
+  
+  | **Platform**             | **Profile**                                                                                  | **Highlights**                                                                                                   |
+  |--------------------------|----------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|
+  | **LeetCode**             | <a href="https://leetcode.com/virajnbhutada24/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="35" width="40" /></a> | Solved diverse algorithmic challenges to refine problem-solving and optimization skills.                        |
+  | **Tableau**              | <a href="https://public.tableau.com/app/profile/viraj.bhutada/vizzes/" target="_blank"><img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau" height="40" width="40"/></a> | Created interactive dashboards with best practices for scalable data visualizations.                           |
+  | **HackerRank**           | <a href="https://www.hackerrank.com/profile/virajnbhutada24" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="50" width="50" /></a> | Improved algorithmic thinking through coding challenges and competitions.                                       |
+  | **Google Cloud**         | <a href="https://www.cloudskillsboost.google/public_profiles/1fe01bf9-78f3-4e57-a935-c7486b6856e1" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" height="35" width="35"/></a> | Developed scalable cloud solutions with hands-on projects and certifications.                                   |
+  | **Salesforce Trailblazer** | <a href="https://www.salesforce.com/trailblazer/virajbhutada" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Salesforce.com_logo.svg/1280px-Salesforce.com_logo.svg.png" alt="Salesforce" height="30" width="45"/></a> | Contributed innovative solutions to the Salesforce ecosystem and community.                                    |
+  | **Microsoft Learn**      | <a href="https://learn.microsoft.com/en-us/users/virajbhutada-6329/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Microsoft_logo.svg/768px-Microsoft_logo.svg.png?20210729021049" alt="Microsoft Learn" height="30" width="35" /></a> | Acquired and showcased expertise in Microsoft technologies through practical projects.                         |
+</details>
+
+
+</details>
+
+
+
+<details>
+  <summary><h2>Languages and Tools</h2></summary>
+
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
   <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank" rel="noreferrer"> <img src="https://github.com/microsoft/PowerBI-Icons/blob/2bf1c982fb24528eee1559a96a25eb534c175cfd/SVG/Power-BI.svg" alt="PowerBI" width="40" height="40"/></a>
@@ -124,72 +87,39 @@ Passionate about exploring new techniques, staying current with industry advance
 
 
 
----
 
-# GitHub Stats 📊     
+
+
+
+
+  ## GitHub Stats
+ 
 
 <p align="right">
-<img src="https://komarev.com/ghpvc/?username=brunotacca&style=plastic&label=Views">
+<img src="https://komarev.com/ghpvc/?username=virajbhutada&style=plastic&label=Views">
 </p>
 
 
-<table>
   <tr>
     <td>
       <a href="https://github.com/virajbhutada">
-        <img alt="Your GitHub stats" src="https://github-readme-stats.vercel.app/api?username=virajbhutada&show_icons=true&theme=radical&exclude_repo=repo1,repo2,repo3" />
+        <img alt="Your GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=virajbhutada&show_icons=true&theme=radical&exclude_repo=repo1,repo2,repo3" />
       </a>
     </td>
     <td>
       <a href="https://github.com/virajbhutada">
-        <img alt="GitHub Contribution Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=virajbhutada&background=45deg,0D0D0D,434343,000000,434343,0D0D0D&theme=radical" />
+        <img alt="GitHub Contribution Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=virajbhutada&theme=radical" />
       </a>
     </td>
   </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/virajbhutada/github-readme-stats">
-          <img src = "https://github-contributor-stats.vercel.app/api?username=virajbhutada&limit=10&theme=radical&combine_all_yearly_contributions=true"/> 
-      </a>
-    </td>
-    <td>
       <a href="https://github.com/virajbhutada">
-        <img alt="Viraj's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=virajbhutada&langs_count=20&count_private=true&layout=compact&theme=radical&hide_border=true&bg_color=000000" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=virajbhutada&theme=radical&layout=compact" />
       </a>
     </td>
   </tr>
-</table>
-
-<p align='center'>
-  <img src="https://stats.quine.sh/virajbhutada/languages-over-time?theme=dark" height="300px" width="400px">
-  <img src="https://stats.quine.sh/virajbhutada/topics-over-time?theme=dark" height="300px" width="400px">
-</p>
 
 
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="center">Statistics</h2>
-<div align="center" style="background: linear-gradient(to right, #ff7e5f, #feb47b); padding: 20px; border-radius: 10px;">
-<a href="https://github.com/virajbhutada">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=virajbhutada&theme=github_dark" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=virajbhutada&theme=github_dark" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=virajbhutada&theme=github_dark" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=virajbhutada&theme=github_dark" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=virajbhutada&theme=github_dark" height="180em" />
-</div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-
-<h2 align="left">⚡ Activity Graph </h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=virajbhutada&bg_color=0d1117&color=7df9ff&line=7df9ff&point=ffffff&area=333333&hide_border=true" style="border-radius: 10px">
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-
-##  GitHub Trophies 🏆
-![](https://github-profile-trophy.vercel.app/?username=virajbhutada&theme=discord&no-frame=false&no-bg=true&margin-w=4)
-
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 
 
@@ -201,16 +131,10 @@ Passionate about exploring new techniques, staying current with industry advance
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote">
 
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 
 
 
-<div align="center">
-    <h1>
-        <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=18&Left=true&v=true&Leftwidth=1500&height=70&duration=2600&lines=THANK+YOU+FOR+STOPPING+BY.;LET+US+CONTINUE+TO+PUSH+BOUNDARIES;AND+MAKE+SIGNIFICANT+STRIDES;IN+THE+WORLD+OF+DATA+TOGETHER.;Reach+out+to+me+on+LinkedIn!;Always+open+to+innovative+collaborations;and+new+ideas+💡&color=E5E4E2" />
-    </h1>
-</div>
 
 
  
@@ -221,9 +145,4 @@ Passionate about exploring new techniques, staying current with industry advance
 
 
 
-<p align="left">
-  <a href="#top">
-    <img src="https://img.shields.io/static/v1?label&message=Back+to+Top&color=36454F&style=flat&logo" alt="back to top" />
-  </a>
-</p>
 
