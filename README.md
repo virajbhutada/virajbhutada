@@ -5,7 +5,7 @@
 
 
 </a>
-<h1 align="center">
+<h1 align="left">
     <a href="#">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=blue&size=35&center=true&vCenter=true&width=500&height=70&duration=2600&lines=Hi+There!+👋;+I'm+Viraj+Bhutada!" />
     </a>
@@ -16,14 +16,7 @@
 <br/><img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
 
 
-<div align="left">
-    <p align="left">
-        <a href="https://www.linkedin.com/in/virajnbhutada24/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/virajnbhutada24/" alt="LinkedIn" height="25" style="border-radius: 5px;"></a>
-        <a href="mailto:virajnbhutada24@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-8a3324?style=flat&logo=gmail&logoColor=white&link=mailto:virajnbhutada24@gmail.com" alt="Email" height="25" style="border-radius: 5px;"></a>
-        <a href="https://www.youtube.com/@virajndataleap"><img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=flat&logo=youtube&logoColor=white" alt="YouTube" height="25" style="border-radius: 5px;"></a>
-        <a href="https://www.datascienceportfol.io/virajnbhutada24"><img src="https://img.shields.io/badge/Portfolio-Visit-lavender?style=flat&logoColor=white&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIj4KICA8Y2lyY2xlIGN4PSI1MCIgY3k9IjUwIiByPSI1MCIgc3R5bGU9ImZpbGw6cmVkOyIgLz4KPC9zdmc+Cg==" alt="Portfolio" height="25" style="border-radius: 5px;"></a>
-    </p>
-</div>
+
 
 
 
@@ -132,7 +125,14 @@
 
 
 
-
+<div align="left">
+    <p align="left">
+        <a href="https://www.linkedin.com/in/virajnbhutada24/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/virajnbhutada24/" alt="LinkedIn" height="25" style="border-radius: 5px;"></a>
+        <a href="mailto:virajnbhutada24@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-8a3324?style=flat&logo=gmail&logoColor=white&link=mailto:virajnbhutada24@gmail.com" alt="Email" height="25" style="border-radius: 5px;"></a>
+        <a href="https://www.youtube.com/@virajndataleap"><img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=flat&logo=youtube&logoColor=white" alt="YouTube" height="25" style="border-radius: 5px;"></a>
+        <a href="https://www.datascienceportfol.io/virajnbhutada24"><img src="https://img.shields.io/badge/Portfolio-Visit-lavender?style=flat&logoColor=white&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIj4KICA8Y2lyY2xlIGN4PSI1MCIgY3k9IjUwIiByPSI1MCIgc3R5bGU9ImZpbGw6cmVkOyIgLz4KPC9zdmc+Cg==" alt="Portfolio" height="25" style="border-radius: 5px;"></a>
+    </p>
+</div>
 
 
 
