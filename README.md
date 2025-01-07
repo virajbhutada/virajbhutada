@@ -23,25 +23,6 @@
 
 
 <details>
-  <summary><h2> Developer Profiles </h2></summary>
-  
-  
-  | **Platform**             | **Profile**                                                                                  | **Highlights**                                                                                                   |
-  |--------------------------|----------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|
-  | **LeetCode**             | <a href="https://leetcode.com/virajnbhutada24/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="35" width="40" /></a> | Solved diverse algorithmic challenges to refine problem-solving and optimization skills.                        |
-  | **Tableau**              | <a href="https://public.tableau.com/app/profile/viraj.bhutada/vizzes/" target="_blank"><img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau" height="40" width="40"/></a> | Created interactive dashboards with best practices for scalable data visualizations.                           |
-  | **HackerRank**           | <a href="https://www.hackerrank.com/profile/virajnbhutada24" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="50" width="50" /></a> | Improved algorithmic thinking through coding challenges and competitions.                                       |
-  | **Google Cloud**         | <a href="https://www.cloudskillsboost.google/public_profiles/1fe01bf9-78f3-4e57-a935-c7486b6856e1" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" height="35" width="35"/></a> | Developed scalable cloud solutions with hands-on projects and certifications.                                   |
-  | **Salesforce Trailblazer** | <a href="https://www.salesforce.com/trailblazer/virajbhutada" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Salesforce.com_logo.svg/1280px-Salesforce.com_logo.svg.png" alt="Salesforce" height="30" width="45"/></a> | Contributed innovative solutions to the Salesforce ecosystem and community.                                    |
-  | **Microsoft Learn**      | <a href="https://learn.microsoft.com/en-us/users/virajbhutada-6329/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Microsoft_logo.svg/768px-Microsoft_logo.svg.png?20210729021049" alt="Microsoft Learn" height="30" width="35" /></a> | Acquired and showcased expertise in Microsoft technologies through practical projects.                         |
-</details>
-
-
-</details>
-
-
-
-<details>
   <summary><h2>Languages and Tools</h2></summary>
 
 <p align="left">
@@ -49,9 +30,15 @@
   <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank" rel="noreferrer"> <img src="https://github.com/microsoft/PowerBI-Icons/blob/2bf1c982fb24528eee1559a96a25eb534c175cfd/SVG/Power-BI.svg" alt="PowerBI" width="40" height="40"/></a>
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/ms-excel.png" alt="Excel" width="40" height="40"/></a>
   <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/oracle-original.svg" alt="Oracle" width="40" height="40"/>
+    <a href="https://leetcode.com/virajnbhutada24/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="35" width="40" /></a>
+    <a href="https://public.tableau.com/app/profile/viraj.bhutada/vizzes/" target="_blank"><img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau" height="40" width="40"/></a>
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" alt="SQL" width="40" height="40"/></a>
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL" width="40" height="40"/></a>
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
+    <a href="https://www.cloudskillsboost.google/public_profiles/1fe01bf9-78f3-4e57-a935-c7486b6856e1" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" height="35" width="35"/></a>
+     <a href="https://www.salesforce.com/trailblazer/virajbhutada" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Salesforce.com_logo.svg/1280px-Salesforce.com_logo.svg.png" alt="Salesforce" height="30" width="45"/></a>
+    <a href="https://learn.microsoft.com/en-us/users/virajbhutada-6329/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Microsoft_logo.svg/768px-Microsoft_logo.svg.png?20210729021049" alt="Microsoft Learn" height="30" width="35" /></a>
+  <a href="https://www.hackerrank.com/profile/virajnbhutada24" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="50" width="50" /></a>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" alt="Css" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/pytorch-icon.svg" alt="Pytorch" width="40" height="40"/>
   <img src="https://dl.dropboxusercontent.com/s/6e7hk06wzjp3j52/Matlab_Logo.png" alt="MatLab" width="40" height="40"/>
@@ -77,6 +64,7 @@
 </p>
 
 </details>
+
 
 
 
