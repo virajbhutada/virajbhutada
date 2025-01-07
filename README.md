@@ -1,27 +1,51 @@
-
-
-
-
-
-
 </a>
-<h1 align="left">
+<h1 align="center">
     <a href="#">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=blue&size=35&center=true&vCenter=true&width=500&height=70&duration=2600&lines=Hi+There!+👋;+I'm+Viraj+Bhutada!" />
     </a>
-</h1>
+</h1> <br/><img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  ## GitHub Stats 📊
+ 
+
+
+
+
+  <tr>
+    <td>
+      <a href="https://github.com/virajbhutada">
+        <img alt="Your GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=virajbhutada&show_icons=true&theme=radical&exclude_repo=repo1,repo2,repo3" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/virajbhutada">
+        <img alt="GitHub Contribution Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=virajbhutada&theme=radical" />
+      </a>
+    </td>
+  </tr>
+     <a href="https://github.com/virajbhutada">
+    <img alt="Top Languages by Commit Chart" src="https://github-readme-stats.vercel.app/api/top-langs/?username=virajbhutada&langs_count=8&layout=compact&theme=radical" />
+  </a>
+
+
 
 ---
-
-<br/><img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
-
-
-
-
-
-
-
-
 <details>
   <summary><h2>Languages and Tools</h2></summary>
 
@@ -65,47 +89,16 @@
 
 </details>
 
-
-
-
-
-
 ---
 
 
-  ## GitHub Stats 📊
- 
-
-
-
-
-  <tr>
-    <td>
-      <a href="https://github.com/virajbhutada">
-        <img alt="Your GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=virajbhutada&show_icons=true&theme=radical&exclude_repo=repo1,repo2,repo3" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/virajbhutada">
-        <img alt="GitHub Contribution Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=virajbhutada&theme=radical" />
-      </a>
-    </td>
-  </tr>
-     <a href="https://github.com/virajbhutada">
-    <img alt="Top Languages by Commit Chart" src="https://github-readme-stats.vercel.app/api/top-langs/?username=virajbhutada&langs_count=8&layout=compact&theme=radical" />
-  </a>
-
-
-
-
-
-
----
 
 <h2 align="left">Random Dev Quote ✍️</h2>
 
 <h3 align="left"></p>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote">
+
+
 
 ---
 
