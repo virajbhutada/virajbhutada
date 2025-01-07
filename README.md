@@ -70,8 +70,7 @@
   <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau" width="40" height="40"/></a>
   <a href="https://www.openai.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/chat.png" alt="ChatGPT" width="40" height="40"/></a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/pandas.png" alt="Pandas" width="40" height="40"/></a>
-  
-<a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/numpy.png" alt="NumPy" width="40" height="40"/></a>
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/numpy.png" alt="NumPy" width="40" height="40"/></a>
   <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow" width="40" height="40"/></a>
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/></a>
   <a href="https://plotly.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/plot_ly/plot_ly-icon.svg" alt="plotly" width="40" height="40"/></a>
