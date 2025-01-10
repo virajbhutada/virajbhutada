@@ -8,25 +8,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-  ## GitHub Stats 📊
- 
-
-
-
-
   <tr>
     <td>
       <a href="https://github.com/virajbhutada">
