@@ -71,15 +71,15 @@
 
 ---
 
-
-
-<h2 align="left">Random Dev Quote ✍️</h2>
+<details>
+  <summary><h2> Random Dev Quote ✍️</h2></summary>
 
 <h3 align="left"></p>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote">
 
+</details>
 
-
+---
 
 
 
