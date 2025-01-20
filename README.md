@@ -8,18 +8,8 @@
 
 
 
-  <tr>
-    <td>
-      <a href="https://github.com/virajbhutada">
-        <img alt="Your GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=virajbhutada&show_icons=true&theme=radical&exclude_repo=repo1,repo2,repo3" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/virajbhutada">
-        <img alt="GitHub Contribution Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=virajbhutada&theme=radical" />
-      </a>
-    </td>
-  </tr>
+<tr><td><a href="https://github.com/virajbhutada"><img alt="Your GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=virajbhutada&show_icons=true&theme=radical&exclude_repo=repo1,repo2,repo3" /></a></td>
+<td><a href="https://github.com/virajbhutada"> <img alt="GitHub Contribution Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=virajbhutada&theme=radical" /></a></td></tr>
      <a href="https://github.com/virajbhutada">
     <img alt="Top Languages by Commit Chart" src="https://github-readme-stats.vercel.app/api/top-langs/?username=virajbhutada&langs_count=8&layout=compact&theme=radical" />
   </a>
